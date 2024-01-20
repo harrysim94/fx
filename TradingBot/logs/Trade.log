@@ -1,0 +1,137 @@
+2023-07-19 20:36:41 LogWapper init() ./logs/Trade.log
+2023-07-19 20:37:05 TradeManager:place_trades() [{'pair': 'GBP_USD', 'units': -1000}]
+2023-07-19 20:37:05 TradeManager:close_trades() pairs_to_close:['GBP_USD'] 
+2023-07-19 20:37:05 TradeManager:close_trades() open_trades:[] 
+2023-07-19 20:37:05 TradeManager:close_trades() ids_to_close:[] 
+2023-07-19 20:37:06 TradeManager:Opened (31, True) {'pair': 'GBP_USD', 'units': -1000}
+2023-07-19 20:42:11 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': -1000}, {'pair': 'AUD_USD', 'units': 1000}]
+2023-07-19 20:42:11 TradeManager:close_trades() pairs_to_close:['GBP_JPY', 'AUD_USD'] 
+2023-07-19 20:42:11 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.0078, 'currentUnits': -1000, 'trade_id': 31, 'openTime': datetime.datetime(2023, 7, 19, 19, 37, 6, 41771, tzinfo=tzutc()), 'instrument': 'GBP_USD'}] 
+2023-07-19 20:42:11 TradeManager:close_trades() ids_to_close:[] 
+2023-07-19 20:42:11 TradeManager:Opened (33, True) {'pair': 'GBP_JPY', 'units': -1000}
+2023-07-19 20:42:11 TradeManager:Opened (35, True) {'pair': 'AUD_USD', 'units': 1000}
+2023-07-19 20:43:05 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': 1000}]
+2023-07-19 20:43:05 TradeManager:close_trades() pairs_to_close:['GBP_JPY'] 
+2023-07-19 20:43:05 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.1399, 'currentUnits': 1000, 'trade_id': 35, 'openTime': datetime.datetime(2023, 7, 19, 19, 42, 11, 434859, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': -0.1836, 'currentUnits': -1000, 'trade_id': 33, 'openTime': datetime.datetime(2023, 7, 19, 19, 42, 11, 320101, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.0308, 'currentUnits': -1000, 'trade_id': 31, 'openTime': datetime.datetime(2023, 7, 19, 19, 37, 6, 41771, tzinfo=tzutc()), 'instrument': 'GBP_USD'}] 
+2023-07-19 20:43:05 TradeManager:close_trades() ids_to_close:[33] 
+2023-07-19 20:43:05 TradeManager:close_trades() Closed
+2023-07-19 20:43:05 TradeManager:Opened (39, True) {'pair': 'GBP_JPY', 'units': 1000}
+2023-07-19 20:43:17 TradeManager:place_trades() [{'pair': 'AUD_USD', 'units': -1000}, {'pair': 'EUR_CHF', 'units': -1000}]
+2023-07-19 20:43:17 TradeManager:close_trades() pairs_to_close:['AUD_USD', 'EUR_CHF'] 
+2023-07-19 20:43:17 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.128, 'currentUnits': 1000, 'trade_id': 39, 'openTime': datetime.datetime(2023, 7, 19, 19, 43, 5, 777380, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': -0.1399, 'currentUnits': 1000, 'trade_id': 35, 'openTime': datetime.datetime(2023, 7, 19, 19, 42, 11, 434859, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': 0.0, 'currentUnits': -1000, 'trade_id': 31, 'openTime': datetime.datetime(2023, 7, 19, 19, 37, 6, 41771, tzinfo=tzutc()), 'instrument': 'GBP_USD'}] 
+2023-07-19 20:43:17 TradeManager:close_trades() ids_to_close:[35] 
+2023-07-19 20:43:17 TradeManager:close_trades() Closed
+2023-07-19 20:43:17 TradeManager:Opened (43, True) {'pair': 'AUD_USD', 'units': -1000}
+2023-07-19 20:43:17 TradeManager:Opened (45, True) {'pair': 'EUR_CHF', 'units': -1000}
+2023-07-19 20:45:06 TradeManager:place_trades() [{'pair': 'AUD_USD', 'units': 1000}, {'pair': 'GBP_USD', 'units': 1000}]
+2023-07-19 20:45:07 TradeManager:close_trades() pairs_to_close:['AUD_USD', 'GBP_USD'] 
+2023-07-19 20:45:07 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.1267, 'currentUnits': -1000, 'trade_id': 45, 'openTime': datetime.datetime(2023, 7, 19, 19, 43, 17, 655366, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.171, 'currentUnits': -1000, 'trade_id': 43, 'openTime': datetime.datetime(2023, 7, 19, 19, 43, 17, 536384, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': -0.1391, 'currentUnits': 1000, 'trade_id': 39, 'openTime': datetime.datetime(2023, 7, 19, 19, 43, 5, 777380, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.0, 'currentUnits': -1000, 'trade_id': 31, 'openTime': datetime.datetime(2023, 7, 19, 19, 37, 6, 41771, tzinfo=tzutc()), 'instrument': 'GBP_USD'}] 
+2023-07-19 20:45:07 TradeManager:close_trades() ids_to_close:[43, 31] 
+2023-07-19 20:45:07 TradeManager:close_trades() Closed
+2023-07-19 20:45:07 TradeManager:close_trades() Closed
+2023-07-19 20:45:07 TradeManager:Opened (51, True) {'pair': 'AUD_USD', 'units': 1000}
+2023-07-19 20:45:07 TradeManager:Opened (53, True) {'pair': 'GBP_USD', 'units': 1000}
+2023-07-19 20:47:07 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': -1000}]
+2023-07-19 20:47:07 TradeManager:close_trades() pairs_to_close:['GBP_JPY'] 
+2023-07-19 20:47:07 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.0933, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.1088, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': -0.1357, 'currentUnits': -1000, 'trade_id': 45, 'openTime': datetime.datetime(2023, 7, 19, 19, 43, 17, 655366, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.2448, 'currentUnits': 1000, 'trade_id': 39, 'openTime': datetime.datetime(2023, 7, 19, 19, 43, 5, 777380, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}] 
+2023-07-19 20:47:07 TradeManager:close_trades() ids_to_close:[39] 
+2023-07-19 20:47:07 TradeManager:close_trades() Closed
+2023-07-19 20:47:08 TradeManager:Opened (57, True) {'pair': 'GBP_JPY', 'units': -1000}
+2023-07-19 20:48:07 TradeManager:place_trades() [{'pair': 'EUR_CHF', 'units': 1000}]
+2023-07-19 20:48:08 TradeManager:close_trades() pairs_to_close:['EUR_CHF'] 
+2023-07-19 20:48:08 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.2281, 'currentUnits': -1000, 'trade_id': 57, 'openTime': datetime.datetime(2023, 7, 19, 19, 47, 8, 5595, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': -0.0777, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.07, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': -0.1991, 'currentUnits': -1000, 'trade_id': 45, 'openTime': datetime.datetime(2023, 7, 19, 19, 43, 17, 655366, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}] 
+2023-07-19 20:48:08 TradeManager:close_trades() ids_to_close:[45] 
+2023-07-19 20:48:08 TradeManager:close_trades() Closed
+2023-07-19 20:48:08 TradeManager:Opened (61, True) {'pair': 'EUR_CHF', 'units': 1000}
+2023-07-19 20:50:07 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': 1000}, {'pair': 'EUR_CHF', 'units': -1000}]
+2023-07-19 20:50:07 TradeManager:close_trades() pairs_to_close:['GBP_JPY', 'EUR_CHF'] 
+2023-07-19 20:50:07 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.1629, 'currentUnits': 1000, 'trade_id': 61, 'openTime': datetime.datetime(2023, 7, 19, 19, 48, 8, 335216, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.2893, 'currentUnits': -1000, 'trade_id': 57, 'openTime': datetime.datetime(2023, 7, 19, 19, 47, 8, 5595, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': -0.0233, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0777, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}] 
+2023-07-19 20:50:07 TradeManager:close_trades() ids_to_close:[61, 57] 
+2023-07-19 20:50:08 TradeManager:close_trades() Closed
+2023-07-19 20:50:08 TradeManager:close_trades() Closed
+2023-07-19 20:50:08 TradeManager:Opened (67, True) {'pair': 'GBP_JPY', 'units': 1000}
+2023-07-19 20:50:08 TradeManager:Opened (69, True) {'pair': 'EUR_CHF', 'units': -1000}
+2023-07-19 20:51:40 TradeManager:place_trades() [{'pair': 'EUR_CHF', 'units': 1000}]
+2023-07-19 20:51:40 TradeManager:close_trades() pairs_to_close:['EUR_CHF'] 
+2023-07-19 20:51:40 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.1538, 'currentUnits': -1000, 'trade_id': 69, 'openTime': datetime.datetime(2023, 7, 19, 19, 50, 8, 428434, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.1224, 'currentUnits': 1000, 'trade_id': 67, 'openTime': datetime.datetime(2023, 7, 19, 19, 50, 8, 297339, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.0923, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0311, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}] 
+2023-07-19 20:51:40 TradeManager:close_trades() ids_to_close:[69] 
+2023-07-19 20:51:41 TradeManager:close_trades() Closed
+2023-07-19 20:51:41 TradeManager:Opened (73, True) {'pair': 'EUR_CHF', 'units': 1000}
+2023-07-19 20:53:13 TradeManager:place_trades() [{'pair': 'EUR_CHF', 'units': -1000}]
+2023-07-19 20:53:14 TradeManager:close_trades() pairs_to_close:['EUR_CHF'] 
+2023-07-19 20:53:14 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.181, 'currentUnits': 1000, 'trade_id': 73, 'openTime': datetime.datetime(2023, 7, 19, 19, 51, 41, 185460, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.2281, 'currentUnits': 1000, 'trade_id': 67, 'openTime': datetime.datetime(2023, 7, 19, 19, 50, 8, 297339, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.0, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0466, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}] 
+2023-07-19 20:53:14 TradeManager:close_trades() ids_to_close:[73] 
+2023-07-19 20:53:14 TradeManager:close_trades() Closed
+2023-07-19 20:53:14 TradeManager:Opened (77, True) {'pair': 'EUR_CHF', 'units': -1000}
+2023-07-19 20:54:08 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': -1000}, {'pair': 'EUR_CHF', 'units': 1000}, {'pair': 'EUR_GBP', 'units': 1000}]
+2023-07-19 20:54:08 TradeManager:close_trades() pairs_to_close:['GBP_JPY', 'EUR_CHF', 'EUR_GBP'] 
+2023-07-19 20:54:08 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.19, 'currentUnits': -1000, 'trade_id': 77, 'openTime': datetime.datetime(2023, 7, 19, 19, 53, 14, 304528, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.2504, 'currentUnits': 1000, 'trade_id': 67, 'openTime': datetime.datetime(2023, 7, 19, 19, 50, 8, 297339, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.0, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0389, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}] 
+2023-07-19 20:54:08 TradeManager:close_trades() ids_to_close:[77, 67] 
+2023-07-19 20:54:09 TradeManager:close_trades() Closed
+2023-07-19 20:54:09 TradeManager:close_trades() Closed
+2023-07-19 20:54:09 TradeManager:Opened (83, True) {'pair': 'GBP_JPY', 'units': -1000}
+2023-07-19 20:54:09 TradeManager:Opened (85, True) {'pair': 'EUR_CHF', 'units': 1000}
+2023-07-19 20:54:09 TradeManager:Opened (87, True) {'pair': 'EUR_GBP', 'units': 1000}
+2023-07-19 20:56:09 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': 1000}, {'pair': 'EUR_GBP', 'units': -1000}]
+2023-07-19 20:56:09 TradeManager:close_trades() pairs_to_close:['GBP_JPY', 'EUR_GBP'] 
+2023-07-19 20:56:09 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.21, 'currentUnits': 1000, 'trade_id': 87, 'openTime': datetime.datetime(2023, 7, 19, 19, 54, 9, 537105, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': -0.0905, 'currentUnits': 1000, 'trade_id': 85, 'openTime': datetime.datetime(2023, 7, 19, 19, 54, 9, 395261, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.4228, 'currentUnits': -1000, 'trade_id': 83, 'openTime': datetime.datetime(2023, 7, 19, 19, 54, 9, 272941, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.3385, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0233, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}] 
+2023-07-19 20:56:09 TradeManager:close_trades() ids_to_close:[87, 83] 
+2023-07-19 20:56:09 TradeManager:close_trades() Closed
+2023-07-19 20:56:09 TradeManager:close_trades() Closed
+2023-07-19 20:56:09 TradeManager:Opened (93, True) {'pair': 'GBP_JPY', 'units': 1000}
+2023-07-19 20:56:10 TradeManager:Opened (95, True) {'pair': 'EUR_GBP', 'units': -1000}
+2023-07-19 21:01:04 TradeManager:place_trades() [{'pair': 'EUR_CHF', 'units': -1000}]
+2023-07-19 21:01:04 TradeManager:close_trades() pairs_to_close:['EUR_CHF'] 
+2023-07-19 21:01:04 TradeManager:close_trades() open_trades:[{'unrealizedPL': 0.07, 'currentUnits': -1000, 'trade_id': 95, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 10, 13144, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': 0.1927, 'currentUnits': 1000, 'trade_id': 93, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 9, 901887, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': -0.19, 'currentUnits': 1000, 'trade_id': 85, 'openTime': datetime.datetime(2023, 7, 19, 19, 54, 9, 395261, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': 0.646, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0621, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}] 
+2023-07-19 21:01:04 TradeManager:close_trades() ids_to_close:[85] 
+2023-07-19 21:01:04 TradeManager:close_trades() Closed
+2023-07-19 21:01:04 TradeManager:Opened (99, True) {'pair': 'EUR_CHF', 'units': -1000}
+2023-07-19 21:01:15 TradeManager:place_trades() [{'pair': 'AUD_USD', 'units': -1000}]
+2023-07-19 21:01:15 TradeManager:close_trades() pairs_to_close:['AUD_USD'] 
+2023-07-19 21:01:15 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.1267, 'currentUnits': -1000, 'trade_id': 99, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 4, 743895, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': 0.07, 'currentUnits': -1000, 'trade_id': 95, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 10, 13144, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': 0.2202, 'currentUnits': 1000, 'trade_id': 93, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 9, 901887, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.6537, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0078, 'currentUnits': 1000, 'trade_id': 51, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 429114, tzinfo=tzutc()), 'instrument': 'AUD_USD'}] 
+2023-07-19 21:01:15 TradeManager:close_trades() ids_to_close:[51] 
+2023-07-19 21:01:15 TradeManager:close_trades() Closed
+2023-07-19 21:01:15 TradeManager:Opened (103, True) {'pair': 'AUD_USD', 'units': -1000}
+2023-07-19 21:05:05 TradeManager:place_trades() [{'pair': 'EUR_USD', 'units': -1000}]
+2023-07-19 21:05:05 TradeManager:close_trades() pairs_to_close:['EUR_USD'] 
+2023-07-19 21:05:05 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.132, 'currentUnits': -1000, 'trade_id': 103, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 15, 967320, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': 0.0537, 'currentUnits': -1000, 'trade_id': 99, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 4, 743895, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': 0.2, 'currentUnits': -1000, 'trade_id': 95, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 10, 13144, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': 0.3358, 'currentUnits': 1000, 'trade_id': 93, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 9, 901887, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.7305, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}] 
+2023-07-19 21:05:05 TradeManager:close_trades() ids_to_close:[] 
+2023-07-19 21:05:05 TradeManager:Opened (105, True) {'pair': 'EUR_USD', 'units': -1000}
+2023-07-19 21:06:11 TradeManager:place_trades() [{'pair': 'AUD_USD', 'units': -1000}]
+2023-07-19 21:06:11 TradeManager:close_trades() pairs_to_close:['AUD_USD'] 
+2023-07-19 21:06:11 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.0466, 'currentUnits': -1000, 'trade_id': 105, 'openTime': datetime.datetime(2023, 7, 19, 20, 5, 5, 823633, tzinfo=tzutc()), 'instrument': 'EUR_USD'}, {'unrealizedPL': -0.0777, 'currentUnits': -1000, 'trade_id': 103, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 15, 967320, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': 0.0806, 'currentUnits': -1000, 'trade_id': 99, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 4, 743895, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': 0.2, 'currentUnits': -1000, 'trade_id': 95, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 10, 13144, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': 0.2752, 'currentUnits': 1000, 'trade_id': 93, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 9, 901887, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.6767, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}] 
+2023-07-19 21:06:11 TradeManager:close_trades() ids_to_close:[103] 
+2023-07-19 21:06:11 TradeManager:close_trades() Closed
+2023-07-19 21:06:11 TradeManager:Opened (109, True) {'pair': 'AUD_USD', 'units': -1000}
+2023-07-19 21:08:39 TradeManager:place_trades() [{'pair': 'GBP_USD', 'units': -1000}]
+2023-07-19 21:08:39 TradeManager:close_trades() pairs_to_close:['GBP_USD'] 
+2023-07-19 21:08:39 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.0932, 'currentUnits': -1000, 'trade_id': 109, 'openTime': datetime.datetime(2023, 7, 19, 20, 6, 11, 786169, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': 0.0231, 'currentUnits': -1000, 'trade_id': 105, 'openTime': datetime.datetime(2023, 7, 19, 20, 5, 5, 823633, tzinfo=tzutc()), 'instrument': 'EUR_USD'}, {'unrealizedPL': 0.1075, 'currentUnits': -1000, 'trade_id': 99, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 4, 743895, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': 0.19, 'currentUnits': -1000, 'trade_id': 95, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 10, 13144, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': 0.2918, 'currentUnits': 1000, 'trade_id': 93, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 9, 901887, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': 0.6152, 'currentUnits': 1000, 'trade_id': 53, 'openTime': datetime.datetime(2023, 7, 19, 19, 45, 7, 553047, tzinfo=tzutc()), 'instrument': 'GBP_USD'}] 
+2023-07-19 21:08:39 TradeManager:close_trades() ids_to_close:[53] 
+2023-07-19 21:08:39 TradeManager:close_trades() Closed
+2023-07-19 21:08:39 TradeManager:Opened (113, True) {'pair': 'GBP_USD', 'units': -1000}
+2023-07-19 21:10:05 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': 1000}]
+2023-07-19 21:10:06 TradeManager:close_trades() pairs_to_close:['GBP_JPY'] 
+2023-07-19 21:10:06 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.132, 'currentUnits': -1000, 'trade_id': 113, 'openTime': datetime.datetime(2023, 7, 19, 20, 8, 39, 933822, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.101, 'currentUnits': -1000, 'trade_id': 109, 'openTime': datetime.datetime(2023, 7, 19, 20, 6, 11, 786169, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': -0.0078, 'currentUnits': -1000, 'trade_id': 105, 'openTime': datetime.datetime(2023, 7, 19, 20, 5, 5, 823633, tzinfo=tzutc()), 'instrument': 'EUR_USD'}, {'unrealizedPL': 0.0985, 'currentUnits': -1000, 'trade_id': 99, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 4, 743895, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': 0.2, 'currentUnits': -1000, 'trade_id': 95, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 10, 13144, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': 0.3798, 'currentUnits': 1000, 'trade_id': 93, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 9, 901887, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}] 
+2023-07-19 21:10:06 TradeManager:close_trades() ids_to_close:[93] 
+2023-07-19 21:10:06 TradeManager:close_trades() Closed
+2023-07-19 21:10:06 TradeManager:Opened (117, True) {'pair': 'GBP_JPY', 'units': 1000}
+2023-07-19 21:11:12 TradeManager:place_trades() [{'pair': 'EUR_CHF', 'units': 1000}, {'pair': 'EUR_GBP', 'units': 1000}]
+2023-07-19 21:11:12 TradeManager:close_trades() pairs_to_close:['EUR_CHF', 'EUR_GBP'] 
+2023-07-19 21:11:12 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.189, 'currentUnits': 1000, 'trade_id': 117, 'openTime': datetime.datetime(2023, 7, 19, 20, 10, 6, 424882, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': -0.0621, 'currentUnits': -1000, 'trade_id': 113, 'openTime': datetime.datetime(2023, 7, 19, 20, 8, 39, 933822, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0777, 'currentUnits': -1000, 'trade_id': 109, 'openTime': datetime.datetime(2023, 7, 19, 20, 6, 11, 786169, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': 0.0, 'currentUnits': -1000, 'trade_id': 105, 'openTime': datetime.datetime(2023, 7, 19, 20, 5, 5, 823633, tzinfo=tzutc()), 'instrument': 'EUR_USD'}, {'unrealizedPL': 0.0179, 'currentUnits': -1000, 'trade_id': 99, 'openTime': datetime.datetime(2023, 7, 19, 20, 1, 4, 743895, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': 0.17, 'currentUnits': -1000, 'trade_id': 95, 'openTime': datetime.datetime(2023, 7, 19, 19, 56, 10, 13144, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}] 
+2023-07-19 21:11:12 TradeManager:close_trades() ids_to_close:[99, 95] 
+2023-07-19 21:11:12 TradeManager:close_trades() Closed
+2023-07-19 21:11:12 TradeManager:close_trades() Closed
+2023-07-19 21:11:12 TradeManager:Opened (123, True) {'pair': 'EUR_CHF', 'units': 1000}
+2023-07-19 21:11:12 TradeManager:Opened (125, True) {'pair': 'EUR_GBP', 'units': 1000}
+2023-07-19 21:13:01 TradeManager:place_trades() [{'pair': 'AUD_USD', 'units': -1000}]
+2023-07-19 21:13:01 TradeManager:close_trades() pairs_to_close:['AUD_USD'] 
+2023-07-19 21:13:01 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.09, 'currentUnits': 1000, 'trade_id': 125, 'openTime': datetime.datetime(2023, 7, 19, 20, 11, 12, 751273, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': -0.181, 'currentUnits': 1000, 'trade_id': 123, 'openTime': datetime.datetime(2023, 7, 19, 20, 11, 12, 621442, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.3003, 'currentUnits': 1000, 'trade_id': 117, 'openTime': datetime.datetime(2023, 7, 19, 20, 10, 6, 424882, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': -0.0155, 'currentUnits': -1000, 'trade_id': 113, 'openTime': datetime.datetime(2023, 7, 19, 20, 8, 39, 933822, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': -0.0699, 'currentUnits': -1000, 'trade_id': 109, 'openTime': datetime.datetime(2023, 7, 19, 20, 6, 11, 786169, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': 0.0538, 'currentUnits': -1000, 'trade_id': 105, 'openTime': datetime.datetime(2023, 7, 19, 20, 5, 5, 823633, tzinfo=tzutc()), 'instrument': 'EUR_USD'}] 
+2023-07-19 21:13:01 TradeManager:close_trades() ids_to_close:[109] 
+2023-07-19 21:13:01 TradeManager:close_trades() Closed
+2023-07-19 21:13:01 TradeManager:Opened (129, True) {'pair': 'AUD_USD', 'units': -1000}
+2023-07-19 21:13:12 TradeManager:place_trades() [{'pair': 'GBP_JPY', 'units': -1000}]
+2023-07-19 21:13:13 TradeManager:close_trades() pairs_to_close:['GBP_JPY'] 
+2023-07-19 21:13:13 TradeManager:close_trades() open_trades:[{'unrealizedPL': -0.101, 'currentUnits': -1000, 'trade_id': 129, 'openTime': datetime.datetime(2023, 7, 19, 20, 13, 1, 711059, tzinfo=tzutc()), 'instrument': 'AUD_USD'}, {'unrealizedPL': -0.09, 'currentUnits': 1000, 'trade_id': 125, 'openTime': datetime.datetime(2023, 7, 19, 20, 11, 12, 751273, tzinfo=tzutc()), 'instrument': 'EUR_GBP'}, {'unrealizedPL': -0.181, 'currentUnits': 1000, 'trade_id': 123, 'openTime': datetime.datetime(2023, 7, 19, 20, 11, 12, 621442, tzinfo=tzutc()), 'instrument': 'EUR_CHF'}, {'unrealizedPL': -0.2947, 'currentUnits': 1000, 'trade_id': 117, 'openTime': datetime.datetime(2023, 7, 19, 20, 10, 6, 424882, tzinfo=tzutc()), 'instrument': 'GBP_JPY'}, {'unrealizedPL': -0.0155, 'currentUnits': -1000, 'trade_id': 113, 'openTime': datetime.datetime(2023, 7, 19, 20, 8, 39, 933822, tzinfo=tzutc()), 'instrument': 'GBP_USD'}, {'unrealizedPL': 0.0538, 'currentUnits': -1000, 'trade_id': 105, 'openTime': datetime.datetime(2023, 7, 19, 20, 5, 5, 823633, tzinfo=tzutc()), 'instrument': 'EUR_USD'}] 
+2023-07-19 21:13:13 TradeManager:close_trades() ids_to_close:[117] 
+2023-07-19 21:13:13 TradeManager:close_trades() Closed
+2023-07-19 21:13:13 TradeManager:Opened (133, True) {'pair': 'GBP_JPY', 'units': -1000}

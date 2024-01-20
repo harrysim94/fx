@@ -1,0 +1,1815 @@
+2023-07-19 20:36:41 LogWapper init() ./logs/Technicals.log
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:37:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:35:00+00:00      64  1.12012  0.00017  EUR_USD  1.120170  1.120279     1.12024        NaN       NaN -0.000109
+8 2023-07-19 19:36:00+00:00      37  1.12017  0.00016  EUR_USD  1.120145  1.120258     1.12017   1.120279 -0.000109 -0.000113
+2023-07-19 20:37:05 Trade_decision:0
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:37:05 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2       MA_8  PREV_SHORT  PREV_LONG   D_PREV    D_NOW
+7 2023-07-19 19:35:00+00:00     115  180.622   0.029  GBP_JPY  180.627  180.62475    180.6205        NaN      NaN  0.00225
+8 2023-07-19 19:36:00+00:00      65  180.632   0.025  GBP_JPY  180.627  180.62375    180.6270  180.62475  0.00225  0.00325
+2023-07-19 20:37:05 Trade_decision:0
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:37:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:35:00+00:00      35  1.29294  0.00019  GBP_USD  1.29300  1.292990       1.293        NaN      NaN  0.000010
+8 2023-07-19 19:36:00+00:00      40  1.29298  0.00017  GBP_USD  1.29296  1.292985       1.293    1.29299  0.00001 -0.000025
+2023-07-19 20:37:05 Trade_decision:-1
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:37:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:35:00+00:00      23  0.96196  0.00016  EUR_CHF  0.961955  0.961864    0.961910        NaN       NaN  0.000091
+8 2023-07-19 19:36:00+00:00      26  0.96202  0.00015  EUR_CHF  0.961990  0.961886    0.961955   0.961864  0.000091  0.000104
+2023-07-19 20:37:05 Trade_decision:0
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 
+2023-07-19 20:37:05 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:37:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:35:00+00:00      29  0.86634  0.00015  EUR_GBP  0.86634  0.866425     0.86639        NaN       NaN -0.000085
+8 2023-07-19 19:36:00+00:00      14  0.86634  0.00014  EUR_GBP  0.86634  0.866411     0.86634   0.866425 -0.000085 -0.000071
+2023-07-19 20:37:05 Trade_decision:0
+2023-07-19 20:37:05 
+2023-07-19 20:37:16 
+2023-07-19 20:37:16 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:37:16 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:35:00+00:00      35  0.67728  0.00013  AUD_USD  0.677330  0.677447     0.67741        NaN       NaN -0.000117
+8 2023-07-19 19:36:00+00:00      15  0.67731  0.00012  AUD_USD  0.677295  0.677416     0.67733   0.677447 -0.000117 -0.000121
+2023-07-19 20:37:16 Trade_decision:0
+2023-07-19 20:37:16 
+2023-07-19 20:38:10 
+2023-07-19 20:38:10 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:38:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:36:00+00:00      37  1.12017  0.00016  EUR_USD  1.120145  1.120257    1.120170        NaN       NaN -0.000112
+8 2023-07-19 19:37:00+00:00      50  1.12006  0.00014  EUR_USD  1.120115  1.120226    1.120145   1.120257 -0.000112 -0.000111
+2023-07-19 20:38:10 Trade_decision:0
+2023-07-19 20:38:10 
+2023-07-19 20:38:10 
+2023-07-19 20:38:10 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:38:10 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:36:00+00:00      65  180.632   0.025  GBP_JPY  180.627  180.623750     180.627        NaN      NaN  0.003250
+8 2023-07-19 19:37:00+00:00      87  180.624   0.026  GBP_JPY  180.628  180.622375     180.627  180.62375  0.00325  0.005625
+2023-07-19 20:38:10 Trade_decision:0
+2023-07-19 20:38:10 
+2023-07-19 20:38:10 
+2023-07-19 20:38:10 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:38:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:36:00+00:00      15  0.67731  0.00012  AUD_USD  0.677295  0.677416    0.677330        NaN       NaN -0.000121
+8 2023-07-19 19:37:00+00:00      18  0.67726  0.00013  AUD_USD  0.677285  0.677385    0.677295   0.677416 -0.000121 -0.000100
+2023-07-19 20:38:10 Trade_decision:0
+2023-07-19 20:38:10 
+2023-07-19 20:38:10 
+2023-07-19 20:38:10 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:38:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:36:00+00:00      40  1.29298  0.00017  GBP_USD  1.29296  1.292985     1.29300        NaN       NaN -0.000025
+8 2023-07-19 19:37:00+00:00      39  1.29292  0.00017  GBP_USD  1.29295  1.292973     1.29296   1.292985 -0.000025 -0.000023
+2023-07-19 20:38:11 Trade_decision:0
+2023-07-19 20:38:11 
+2023-07-19 20:38:11 
+2023-07-19 20:38:11 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:38:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:36:00+00:00      26  0.96202  0.00015  EUR_CHF  0.96199  0.961886    0.961955        NaN       NaN  0.000104
+8 2023-07-19 19:37:00+00:00      24  0.96198  0.00015  EUR_CHF  0.96200  0.961911    0.961990   0.961886  0.000104  0.000089
+2023-07-19 20:38:11 Trade_decision:0
+2023-07-19 20:38:11 
+2023-07-19 20:38:11 
+2023-07-19 20:38:11 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:38:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:36:00+00:00      14  0.86634  0.00014  EUR_GBP  0.86634  0.866411     0.86634        NaN       NaN -0.000071
+8 2023-07-19 19:37:00+00:00      26  0.86630  0.00016  EUR_GBP  0.86632  0.866396     0.86634   0.866411 -0.000071 -0.000076
+2023-07-19 20:38:11 Trade_decision:0
+2023-07-19 20:38:11 
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:39:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:37:00+00:00      50  1.12006  0.00014  EUR_USD  1.120115  1.120226    1.120145        NaN       NaN -0.000111
+8 2023-07-19 19:38:00+00:00      26  1.12006  0.00014  EUR_USD  1.120060  1.120199    1.120115   1.120226 -0.000111 -0.000139
+2023-07-19 20:39:05 Trade_decision:0
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:39:05 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:37:00+00:00      87  180.624   0.026  GBP_JPY  180.628  180.622375     180.627         NaN       NaN  0.005625
+8 2023-07-19 19:38:00+00:00      94  180.628   0.029  GBP_JPY  180.626  180.624125     180.628  180.622375  0.005625  0.001875
+2023-07-19 20:39:05 Trade_decision:0
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:39:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG  D_PREV     D_NOW
+7 2023-07-19 19:37:00+00:00      18  0.67726  0.00013  AUD_USD  0.677285  0.677385    0.677295        NaN     NaN -0.000100
+8 2023-07-19 19:38:00+00:00      33  0.67723  0.00012  AUD_USD  0.677245  0.677356    0.677285   0.677385 -0.0001 -0.000111
+2023-07-19 20:39:05 Trade_decision:0
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:39:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:37:00+00:00      39  1.29292  0.00017  GBP_USD  1.29295  1.292973     1.29296        NaN       NaN -0.000023
+8 2023-07-19 19:38:00+00:00      42  1.29290  0.00017  GBP_USD  1.29291  1.292968     1.29295   1.292973 -0.000023 -0.000058
+2023-07-19 20:39:05 Trade_decision:0
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:39:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:37:00+00:00      24  0.96198  0.00015  EUR_CHF  0.96200  0.961911     0.96199        NaN       NaN  0.000089
+8 2023-07-19 19:38:00+00:00      10  0.96206  0.00017  EUR_CHF  0.96202  0.961941     0.96200   0.961911  0.000089  0.000079
+2023-07-19 20:39:05 Trade_decision:0
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 
+2023-07-19 20:39:05 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:39:05 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 19:37:00+00:00      26  0.8663  0.00016  EUR_GBP  0.86632  0.866396     0.86634   0.866411 -0.000071 -0.000076
+9 2023-07-19 19:38:00+00:00      36  0.8663  0.00015  EUR_GBP  0.86630  0.866374     0.86632   0.866396 -0.000076 -0.000074
+2023-07-19 20:39:05 Trade_decision:0
+2023-07-19 20:39:05 
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:40:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:38:00+00:00      26  1.12006  0.00014  EUR_USD  1.120060  1.120199    1.120115        NaN       NaN -0.000139
+8 2023-07-19 19:39:00+00:00      42  1.11997  0.00016  EUR_USD  1.120015  1.120150    1.120060   1.120199 -0.000139 -0.000135
+2023-07-19 20:40:10 Trade_decision:0
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:40:10 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:38:00+00:00      94  180.628   0.029  GBP_JPY  180.6260  180.624125     180.628         NaN       NaN  0.001875
+8 2023-07-19 19:39:00+00:00     110  180.639   0.026  GBP_JPY  180.6335  180.626500     180.626  180.624125  0.001875  0.007000
+2023-07-19 20:40:10 Trade_decision:0
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:40:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:38:00+00:00      33  0.67723  0.00012  AUD_USD  0.677245  0.677356    0.677285        NaN       NaN -0.000111
+8 2023-07-19 19:39:00+00:00      26  0.67721  0.00014  AUD_USD  0.677220  0.677321    0.677245   0.677356 -0.000111 -0.000101
+2023-07-19 20:40:10 Trade_decision:0
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:40:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:38:00+00:00      42  1.29290  0.00017  GBP_USD  1.29291  1.292968     1.29295        NaN       NaN -0.000058
+8 2023-07-19 19:39:00+00:00      53  1.29282  0.00017  GBP_USD  1.29286  1.292943     1.29291   1.292968 -0.000058 -0.000082
+2023-07-19 20:40:10 Trade_decision:0
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 
+2023-07-19 20:40:10 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:40:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:38:00+00:00      10  0.96206  0.00017  EUR_CHF  0.96202  0.961941     0.96200        NaN       NaN  0.000079
+8 2023-07-19 19:39:00+00:00      35  0.96208  0.00015  EUR_CHF  0.96207  0.961976     0.96202   0.961941  0.000079  0.000094
+2023-07-19 20:40:11 Trade_decision:0
+2023-07-19 20:40:11 
+2023-07-19 20:40:11 
+2023-07-19 20:40:11 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:40:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:38:00+00:00      36  0.86630  0.00015  EUR_GBP  0.86630  0.866374     0.86632        NaN       NaN -0.000074
+8 2023-07-19 19:39:00+00:00      24  0.86632  0.00014  EUR_GBP  0.86631  0.866354     0.86630   0.866374 -0.000074 -0.000044
+2023-07-19 20:40:11 Trade_decision:0
+2023-07-19 20:40:11 
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:41:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:39:00+00:00      42  1.11997  0.00016  EUR_USD  1.120015  1.120150    1.120060        NaN       NaN -0.000135
+8 2023-07-19 19:40:00+00:00      45  1.11996  0.00015  EUR_USD  1.119965  1.120103    1.120015    1.12015 -0.000135 -0.000137
+2023-07-19 20:41:05 Trade_decision:0
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:41:05 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT  PREV_LONG  D_PREV     D_NOW
+7 2023-07-19 19:39:00+00:00     110  180.639   0.026  GBP_JPY  180.6335  180.626500    180.6260        NaN     NaN  0.007000
+8 2023-07-19 19:40:00+00:00      75  180.629   0.026  GBP_JPY  180.6340  180.626875    180.6335   180.6265   0.007  0.007125
+2023-07-19 20:41:05 Trade_decision:0
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:41:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:39:00+00:00      26  0.67721  0.00014  AUD_USD  0.677220  0.677321    0.677245        NaN       NaN -0.000101
+8 2023-07-19 19:40:00+00:00      22  0.67728  0.00014  AUD_USD  0.677245  0.677299    0.677220   0.677321 -0.000101 -0.000054
+2023-07-19 20:41:05 Trade_decision:0
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:41:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:39:00+00:00      53  1.29282  0.00017  GBP_USD  1.29286  1.292943     1.29291        NaN       NaN -0.000082
+8 2023-07-19 19:40:00+00:00       7  1.29282  0.00015  GBP_USD  1.29282  1.292922     1.29286   1.292943 -0.000082 -0.000102
+2023-07-19 20:41:05 Trade_decision:0
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:41:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:39:00+00:00      35  0.96208  0.00015  EUR_CHF  0.962070  0.961976     0.96202        NaN       NaN  0.000094
+8 2023-07-19 19:40:00+00:00      39  0.96203  0.00016  EUR_CHF  0.962055  0.961994     0.96207   0.961976  0.000094  0.000061
+2023-07-19 20:41:05 Trade_decision:0
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 
+2023-07-19 20:41:05 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:41:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:39:00+00:00      24  0.86632  0.00014  EUR_GBP  0.86631  0.866354     0.86630        NaN       NaN -0.000044
+8 2023-07-19 19:40:00+00:00      16  0.86630  0.00014  EUR_GBP  0.86631  0.866335     0.86631   0.866354 -0.000044 -0.000025
+2023-07-19 20:41:05 Trade_decision:0
+2023-07-19 20:41:05 
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:42:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:40:00+00:00      45  1.11996  0.00015  EUR_USD  1.119965  1.120103    1.120015        NaN       NaN -0.000137
+8 2023-07-19 19:41:00+00:00      23  1.11994  0.00015  EUR_USD  1.119950  1.120062    1.119965   1.120103 -0.000137 -0.000112
+2023-07-19 20:42:10 Trade_decision:0
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:42:10 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:40:00+00:00      75  180.629   0.026  GBP_JPY  180.634  180.626875    180.6335         NaN       NaN  0.007125
+8 2023-07-19 19:41:00+00:00      65  180.629   0.030  GBP_JPY  180.629  180.629375    180.6340  180.626875  0.007125 -0.000375
+2023-07-19 20:42:10 Trade_decision:-1
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:42:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:40:00+00:00      22  0.67728  0.00014  AUD_USD  0.677245  0.677299    0.677220        NaN       NaN -0.000054
+8 2023-07-19 19:41:00+00:00      21  0.67730  0.00012  AUD_USD  0.677290  0.677281    0.677245   0.677299 -0.000054  0.000009
+2023-07-19 20:42:10 Trade_decision:1
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:42:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:40:00+00:00       7  1.29282  0.00015  GBP_USD  1.292820  1.292922     1.29286        NaN       NaN -0.000102
+8 2023-07-19 19:41:00+00:00      51  1.29289  0.00018  GBP_USD  1.292855  1.292916     1.29282   1.292922 -0.000102 -0.000061
+2023-07-19 20:42:10 Trade_decision:0
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:42:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:40:00+00:00      39  0.96203  0.00016  EUR_CHF  0.962055  0.961994    0.962070        NaN       NaN  0.000061
+8 2023-07-19 19:41:00+00:00      15  0.96202  0.00015  EUR_CHF  0.962025  0.962012    0.962055   0.961994  0.000061  0.000013
+2023-07-19 20:42:10 Trade_decision:0
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 
+2023-07-19 20:42:10 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:42:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:40:00+00:00      16  0.86630  0.00014  EUR_GBP  0.86631  0.866335     0.86631        NaN       NaN -0.000025
+8 2023-07-19 19:41:00+00:00      23  0.86624  0.00014  EUR_GBP  0.86627  0.866310     0.86631   0.866335 -0.000025 -0.000040
+2023-07-19 20:42:11 Trade_decision:0
+2023-07-19 20:42:11 
+2023-07-19 20:43:05 
+2023-07-19 20:43:05 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:43:05 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:41:00+00:00      65  180.629   0.030  GBP_JPY  180.6290  180.629375     180.634         NaN       NaN -0.000375
+8 2023-07-19 19:42:00+00:00      84  180.634   0.031  GBP_JPY  180.6315  180.629625     180.629  180.629375 -0.000375  0.001875
+2023-07-19 20:43:05 Trade_decision:1
+2023-07-19 20:43:05 
+2023-07-19 20:43:16 
+2023-07-19 20:43:16 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:43:16 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:41:00+00:00      23  1.11994  0.00015  EUR_USD  1.119950  1.120062    1.119965        NaN       NaN -0.000112
+8 2023-07-19 19:42:00+00:00      39  1.11985  0.00016  EUR_USD  1.119895  1.120016    1.119950   1.120062 -0.000112 -0.000121
+2023-07-19 20:43:16 Trade_decision:0
+2023-07-19 20:43:16 
+2023-07-19 20:43:16 
+2023-07-19 20:43:16 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:43:16 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:41:00+00:00      21  0.67730  0.00012  AUD_USD  0.67729  0.677281    0.677245        NaN       NaN  0.000009
+8 2023-07-19 19:42:00+00:00      27  0.67722  0.00012  AUD_USD  0.67726  0.677261    0.677290   0.677281  0.000009 -0.000001
+2023-07-19 20:43:16 Trade_decision:-1
+2023-07-19 20:43:16 
+2023-07-19 20:43:16 
+2023-07-19 20:43:16 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:43:16 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:41:00+00:00      51  1.29289  0.00018  GBP_USD  1.292855  1.292916    1.292820        NaN       NaN -0.000061
+8 2023-07-19 19:42:00+00:00      52  1.29284  0.00017  GBP_USD  1.292865  1.292889    1.292855   1.292916 -0.000061 -0.000024
+2023-07-19 20:43:16 Trade_decision:0
+2023-07-19 20:43:16 
+2023-07-19 20:43:16 
+2023-07-19 20:43:16 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:43:17 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:41:00+00:00      15  0.96202  0.00015  EUR_CHF  0.962025  0.962013    0.962055        NaN       NaN  0.000012
+8 2023-07-19 19:42:00+00:00      13  0.96197  0.00016  EUR_CHF  0.961995  0.962015    0.962025   0.962013  0.000012 -0.000020
+2023-07-19 20:43:17 Trade_decision:-1
+2023-07-19 20:43:17 
+2023-07-19 20:43:17 
+2023-07-19 20:43:17 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:43:17 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:41:00+00:00      23  0.86624  0.00014  EUR_GBP  0.86627  0.866310     0.86631        NaN      NaN -0.000040
+8 2023-07-19 19:42:00+00:00      18  0.86620  0.00014  EUR_GBP  0.86622  0.866292     0.86627    0.86631 -0.00004 -0.000072
+2023-07-19 20:43:17 Trade_decision:0
+2023-07-19 20:43:17 
+2023-07-19 20:44:00 
+2023-07-19 20:44:00 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:44:00 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 19:42:00+00:00      52  1.29284  0.00017  GBP_USD  1.292865  1.292889    1.292855   1.292916 -0.000061 -0.000024
+9 2023-07-19 19:43:00+00:00      33  1.29290  0.00015  GBP_USD  1.292870  1.292884    1.292865   1.292889 -0.000024 -0.000014
+2023-07-19 20:44:00 Trade_decision:0
+2023-07-19 20:44:00 
+2023-07-19 20:44:11 
+2023-07-19 20:44:11 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:44:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:42:00+00:00      39  1.11985  0.00016  EUR_USD  1.119895  1.120016    1.119950        NaN       NaN -0.000121
+8 2023-07-19 19:43:00+00:00      32  1.11990  0.00016  EUR_USD  1.119875  1.119989    1.119895   1.120016 -0.000121 -0.000114
+2023-07-19 20:44:11 Trade_decision:0
+2023-07-19 20:44:11 
+2023-07-19 20:44:11 
+2023-07-19 20:44:11 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:44:11 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:42:00+00:00      84  180.634   0.031  GBP_JPY  180.6315  180.629625    180.6290         NaN       NaN  0.001875
+8 2023-07-19 19:43:00+00:00      65  180.640   0.021  GBP_JPY  180.6370  180.631875    180.6315  180.629625  0.001875  0.005125
+2023-07-19 20:44:11 Trade_decision:0
+2023-07-19 20:44:11 
+2023-07-19 20:44:11 
+2023-07-19 20:44:11 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:44:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 19:42:00+00:00      27  0.67722  0.00012  AUD_USD  0.67726  0.677261     0.67729   0.677281  0.000009 -0.000001
+9 2023-07-19 19:43:00+00:00      16  0.67724  0.00012  AUD_USD  0.67723  0.677256     0.67726   0.677261 -0.000001 -0.000026
+2023-07-19 20:44:11 Trade_decision:0
+2023-07-19 20:44:11 
+2023-07-19 20:44:11 
+2023-07-19 20:44:11 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:44:12 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:42:00+00:00      13  0.96197  0.00016  EUR_CHF  0.961995  0.962015    0.962025        NaN      NaN -0.000020
+8 2023-07-19 19:43:00+00:00      20  0.96194  0.00016  EUR_CHF  0.961955  0.962012    0.961995   0.962015 -0.00002 -0.000057
+2023-07-19 20:44:12 Trade_decision:0
+2023-07-19 20:44:12 
+2023-07-19 20:44:12 
+2023-07-19 20:44:12 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:44:12 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:42:00+00:00      18  0.8662  0.00014  EUR_GBP  0.86622  0.866293     0.86627        NaN       NaN -0.000073
+8 2023-07-19 19:43:00+00:00      19  0.8662  0.00015  EUR_GBP  0.86620  0.866275     0.86622   0.866293 -0.000073 -0.000075
+2023-07-19 20:44:12 Trade_decision:0
+2023-07-19 20:44:12 
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:45:06 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:43:00+00:00      32  1.1199  0.00016  EUR_USD  1.119875  1.119989    1.119895        NaN       NaN -0.000114
+8 2023-07-19 19:44:00+00:00      39  1.1199  0.00015  EUR_USD  1.119900  1.119955    1.119875   1.119989 -0.000114 -0.000055
+2023-07-19 20:45:06 Trade_decision:0
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:45:06 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:43:00+00:00      65  180.640   0.021  GBP_JPY  180.637  180.631875    180.6315         NaN       NaN  0.005125
+8 2023-07-19 19:44:00+00:00      94  180.644   0.031  GBP_JPY  180.642  180.633375    180.6370  180.631875  0.005125  0.008625
+2023-07-19 20:45:06 Trade_decision:0
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:45:06 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:43:00+00:00      16  0.67724  0.00012  AUD_USD  0.67723  0.677256     0.67726        NaN       NaN -0.000026
+8 2023-07-19 19:44:00+00:00      18  0.67732  0.00013  AUD_USD  0.67728  0.677257     0.67723   0.677256 -0.000026  0.000023
+2023-07-19 20:45:06 Trade_decision:1
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:45:06 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:43:00+00:00      33  1.29290  0.00015  GBP_USD  1.292870  1.292884    1.292865        NaN       NaN -0.000014
+8 2023-07-19 19:44:00+00:00      49  1.29291  0.00018  GBP_USD  1.292905  1.292875    1.292870   1.292884 -0.000014  0.000030
+2023-07-19 20:45:06 Trade_decision:1
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:45:06 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:43:00+00:00      20  0.96194  0.00016  EUR_CHF  0.961955  0.962013    0.961995        NaN       NaN -0.000058
+8 2023-07-19 19:44:00+00:00      22  0.96195  0.00016  EUR_CHF  0.961945  0.962004    0.961955   0.962013 -0.000058 -0.000059
+2023-07-19 20:45:06 Trade_decision:0
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 
+2023-07-19 20:45:06 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:45:06 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:43:00+00:00      19  0.8662  0.00015  EUR_GBP  0.8662  0.866275     0.86622        NaN       NaN -0.000075
+8 2023-07-19 19:44:00+00:00      22  0.8662  0.00014  EUR_GBP  0.8662  0.866257     0.86620   0.866275 -0.000075 -0.000057
+2023-07-19 20:45:06 Trade_decision:0
+2023-07-19 20:45:06 
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:46:01 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:44:00+00:00      39  1.1199  0.00015  EUR_USD  1.1199  1.119955    1.119875        NaN       NaN -0.000055
+8 2023-07-19 19:45:00+00:00      41  1.1199  0.00015  EUR_USD  1.1199  1.119935    1.119900   1.119955 -0.000055 -0.000035
+2023-07-19 20:46:01 Trade_decision:0
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:46:01 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:44:00+00:00      94  180.644   0.031  GBP_JPY  180.642  180.633375     180.637         NaN       NaN  0.008625
+8 2023-07-19 19:45:00+00:00      86  180.628   0.029  GBP_JPY  180.636  180.633875     180.642  180.633375  0.008625  0.002125
+2023-07-19 20:46:01 Trade_decision:0
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:46:01 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:44:00+00:00      18  0.67732  0.00013  AUD_USD  0.67728  0.677257     0.67723        NaN       NaN  0.000023
+8 2023-07-19 19:45:00+00:00      14  0.67730  0.00014  AUD_USD  0.67731  0.677263     0.67728   0.677257  0.000023  0.000047
+2023-07-19 20:46:01 Trade_decision:0
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:46:01 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:44:00+00:00      49  1.29291  0.00018  GBP_USD  1.292905  1.292875    1.292870        NaN      NaN  0.000030
+8 2023-07-19 19:45:00+00:00      63  1.29290  0.00017  GBP_USD  1.292905  1.292872    1.292905   1.292875  0.00003  0.000033
+2023-07-19 20:46:01 Trade_decision:0
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 
+2023-07-19 20:46:01 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:46:02 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:44:00+00:00      22  0.96195  0.00016  EUR_CHF  0.961945  0.962004    0.961955        NaN       NaN -0.000059
+8 2023-07-19 19:45:00+00:00      55  0.96194  0.00015  EUR_CHF  0.961945  0.961999    0.961945   0.962004 -0.000059 -0.000054
+2023-07-19 20:46:02 Trade_decision:0
+2023-07-19 20:46:02 
+2023-07-19 20:46:12 
+2023-07-19 20:46:12 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:46:12 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 19:44:00+00:00      22  0.8662  0.00014  EUR_GBP  0.8662  0.866257      0.8662   0.866275 -0.000075 -0.000057
+9 2023-07-19 19:45:00+00:00      14  0.8662  0.00015  EUR_GBP  0.8662  0.866245      0.8662   0.866257 -0.000057 -0.000045
+2023-07-19 20:46:12 Trade_decision:0
+2023-07-19 20:46:12 
+2023-07-19 20:47:06 
+2023-07-19 20:47:06 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:47:06 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:45:00+00:00      41  1.1199  0.00015  EUR_USD  1.1199  1.119935      1.1199        NaN       NaN -0.000035
+8 2023-07-19 19:46:00+00:00      48  1.1199  0.00015  EUR_USD  1.1199  1.119915      1.1199   1.119935 -0.000035 -0.000015
+2023-07-19 20:47:06 Trade_decision:0
+2023-07-19 20:47:06 
+2023-07-19 20:47:06 
+2023-07-19 20:47:06 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:47:07 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:45:00+00:00      86  180.628   0.029  GBP_JPY  180.636  180.633875     180.642         NaN       NaN  0.002125
+8 2023-07-19 19:46:00+00:00      65  180.618   0.027  GBP_JPY  180.623  180.632625     180.636  180.633875  0.002125 -0.009625
+2023-07-19 20:47:07 Trade_decision:-1
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:47:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:45:00+00:00      14  0.67730  0.00014  AUD_USD  0.67731  0.677262     0.67728        NaN       NaN  0.000048
+8 2023-07-19 19:46:00+00:00      20  0.67728  0.00011  AUD_USD  0.67729  0.677269     0.67731   0.677262  0.000048  0.000021
+2023-07-19 20:47:07 Trade_decision:0
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:47:07 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:45:00+00:00      63  1.2929  0.00017  GBP_USD  1.292905  1.292873    1.292905        NaN       NaN  0.000032
+8 2023-07-19 19:46:00+00:00      31  1.2929  0.00018  GBP_USD  1.292900  1.292873    1.292905   1.292873  0.000032  0.000027
+2023-07-19 20:47:07 Trade_decision:0
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:47:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:45:00+00:00      55  0.96194  0.00015  EUR_CHF  0.961945  0.961999    0.961945        NaN       NaN -0.000054
+8 2023-07-19 19:46:00+00:00      16  0.96197  0.00016  EUR_CHF  0.961955  0.961987    0.961945   0.961999 -0.000054 -0.000032
+2023-07-19 20:47:07 Trade_decision:0
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 
+2023-07-19 20:47:07 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:47:07 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:45:00+00:00      14  0.8662  0.00015  EUR_GBP  0.8662  0.866245      0.8662        NaN       NaN -0.000045
+8 2023-07-19 19:46:00+00:00       8  0.8662  0.00015  EUR_GBP  0.8662  0.866232      0.8662   0.866245 -0.000045 -0.000032
+2023-07-19 20:47:07 Trade_decision:0
+2023-07-19 20:47:07 
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:48:07 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:46:00+00:00      48  1.1199  0.00015  EUR_USD  1.1199  1.119915      1.1199        NaN       NaN -0.000015
+8 2023-07-19 19:47:00+00:00      42  1.1199  0.00015  EUR_USD  1.1199  1.119906      1.1199   1.119915 -0.000015 -0.000006
+2023-07-19 20:48:07 Trade_decision:0
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:48:07 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:46:00+00:00      65  180.618   0.027  GBP_JPY  180.623  180.632625     180.636         NaN       NaN -0.009625
+8 2023-07-19 19:47:00+00:00      68  180.628   0.027  GBP_JPY  180.623  180.631250     180.623  180.632625 -0.009625 -0.008250
+2023-07-19 20:48:07 Trade_decision:0
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:48:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 19:46:00+00:00      20  0.67728  0.00011  AUD_USD  0.67729  0.677269     0.67731   0.677262  0.000048  0.000021
+9 2023-07-19 19:47:00+00:00      22  0.67736  0.00013  AUD_USD  0.67732  0.677287     0.67729   0.677269  0.000021  0.000032
+2023-07-19 20:48:07 Trade_decision:0
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:48:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 19:46:00+00:00      31  1.29290  0.00018  GBP_USD  1.29290  1.292873    1.292905   1.292873  0.000032  0.000027
+9 2023-07-19 19:47:00+00:00      29  1.29292  0.00017  GBP_USD  1.29291  1.292885    1.292900   1.292873  0.000027  0.000025
+2023-07-19 20:48:07 Trade_decision:0
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:48:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:46:00+00:00      16  0.96197  0.00016  EUR_CHF  0.961955  0.961987    0.961945        NaN       NaN -0.000032
+8 2023-07-19 19:47:00+00:00      19  0.96203  0.00016  EUR_CHF  0.962000  0.961981    0.961955   0.961987 -0.000032  0.000019
+2023-07-19 20:48:07 Trade_decision:1
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 
+2023-07-19 20:48:07 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:48:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:46:00+00:00       8  0.86620  0.00015  EUR_GBP  0.866200  0.866232      0.8662        NaN       NaN -0.000032
+8 2023-07-19 19:47:00+00:00      18  0.86619  0.00014  EUR_GBP  0.866195  0.866216      0.8662   0.866232 -0.000032 -0.000021
+2023-07-19 20:48:07 Trade_decision:0
+2023-07-19 20:48:07 
+2023-07-19 20:49:09 
+2023-07-19 20:49:09 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:49:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:47:00+00:00      42  1.11990  0.00015  EUR_USD  1.11990  1.119906      1.1199        NaN       NaN -0.000006
+8 2023-07-19 19:48:00+00:00      53  1.11986  0.00015  EUR_USD  1.11988  1.119894      1.1199   1.119906 -0.000006 -0.000014
+2023-07-19 20:49:09 Trade_decision:0
+2023-07-19 20:49:09 
+2023-07-19 20:49:09 
+2023-07-19 20:49:09 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:49:10 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:47:00+00:00      68  180.628   0.027  GBP_JPY  180.623  180.631250     180.623        NaN      NaN -0.008250
+8 2023-07-19 19:48:00+00:00      64  180.634   0.027  GBP_JPY  180.631  180.631875     180.623  180.63125 -0.00825 -0.000875
+2023-07-19 20:49:10 Trade_decision:0
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:49:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 19:47:00+00:00      22  0.67736  0.00013  AUD_USD  0.67732  0.677288     0.67729   0.677269  0.000021  0.000032
+9 2023-07-19 19:48:00+00:00      14  0.67736  0.00013  AUD_USD  0.67736  0.677297     0.67732   0.677288  0.000032  0.000062
+2023-07-19 20:49:10 Trade_decision:0
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:49:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:47:00+00:00      29  1.29292  0.00017  GBP_USD  1.292910  1.292885     1.29290        NaN       NaN  0.000025
+8 2023-07-19 19:48:00+00:00      24  1.29289  0.00016  GBP_USD  1.292905  1.292894     1.29291   1.292885  0.000025  0.000011
+2023-07-19 20:49:10 Trade_decision:0
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:49:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:47:00+00:00      19  0.96203  0.00016  EUR_CHF  0.962000  0.961981    0.961955        NaN       NaN  0.000019
+8 2023-07-19 19:48:00+00:00      22  0.96196  0.00017  EUR_CHF  0.961995  0.961973    0.962000   0.961981  0.000019  0.000023
+2023-07-19 20:49:10 Trade_decision:0
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 
+2023-07-19 20:49:10 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:49:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:47:00+00:00      18  0.86619  0.00014  EUR_GBP  0.866195  0.866216    0.866200        NaN       NaN -0.000021
+8 2023-07-19 19:48:00+00:00      16  0.86619  0.00014  EUR_GBP  0.866190  0.866202    0.866195   0.866216 -0.000021 -0.000012
+2023-07-19 20:49:11 Trade_decision:0
+2023-07-19 20:49:11 
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:50:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:48:00+00:00      53  1.11986  0.00015  EUR_USD  1.119880  1.119894     1.11990        NaN       NaN -0.000014
+8 2023-07-19 19:49:00+00:00      32  1.11991  0.00016  EUR_USD  1.119885  1.119890     1.11988   1.119894 -0.000014 -0.000005
+2023-07-19 20:50:07 Trade_decision:0
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:50:07 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:48:00+00:00      64  180.634   0.027  GBP_JPY  180.631  180.631875     180.623         NaN       NaN -0.000875
+8 2023-07-19 19:49:00+00:00      56  180.632   0.028  GBP_JPY  180.633  180.632250     180.631  180.631875 -0.000875  0.000750
+2023-07-19 20:50:07 Trade_decision:1
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:50:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:48:00+00:00      14  0.67736  0.00013  AUD_USD  0.677360  0.677297     0.67732        NaN       NaN  0.000062
+8 2023-07-19 19:49:00+00:00      14  0.67733  0.00014  AUD_USD  0.677345  0.677301     0.67736   0.677297  0.000062  0.000044
+2023-07-19 20:50:07 Trade_decision:0
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:50:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:48:00+00:00      24  1.29289  0.00016  GBP_USD  1.292905  1.292894    1.292910        NaN       NaN  0.000011
+8 2023-07-19 19:49:00+00:00      21  1.29291  0.00016  GBP_USD  1.292900  1.292896    1.292905   1.292894  0.000011  0.000004
+2023-07-19 20:50:07 Trade_decision:0
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:50:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:48:00+00:00      22  0.96196  0.00017  EUR_CHF  0.961995  0.961973    0.962000        NaN       NaN  0.000023
+8 2023-07-19 19:49:00+00:00      11  0.96197  0.00016  EUR_CHF  0.961965  0.961966    0.961995   0.961973  0.000023 -0.000001
+2023-07-19 20:50:07 Trade_decision:-1
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 
+2023-07-19 20:50:07 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:50:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:48:00+00:00      16  0.86619  0.00014  EUR_GBP  0.86619  0.866202    0.866195        NaN       NaN -0.000012
+8 2023-07-19 19:49:00+00:00       5  0.86619  0.00014  EUR_GBP  0.86619  0.866196    0.866190   0.866202 -0.000012 -0.000006
+2023-07-19 20:50:07 Trade_decision:0
+2023-07-19 20:50:07 
+2023-07-19 20:51:07 
+2023-07-19 20:51:07 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:51:38 Error fetching candles for pair:EUR_USD 2023-07-19 19:50:00+00:00, df None
+2023-07-19 20:51:38 
+2023-07-19 20:51:38 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:51:40 Error fetching candles for pair:GBP_JPY 2023-07-19 19:50:00+00:00, df None
+2023-07-19 20:51:40 
+2023-07-19 20:51:40 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:51:40 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:49:00+00:00      14  0.67733  0.00014  AUD_USD  0.677345  0.677301    0.677360        NaN       NaN  0.000044
+8 2023-07-19 19:50:00+00:00      21  0.67740  0.00014  AUD_USD  0.677365  0.677324    0.677345   0.677301  0.000044  0.000041
+2023-07-19 20:51:40 Trade_decision:0
+2023-07-19 20:51:40 
+2023-07-19 20:51:40 
+2023-07-19 20:51:40 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:51:40 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:49:00+00:00      21  1.29291  0.00016  GBP_USD  1.29290  1.292896    1.292905        NaN       NaN  0.000004
+8 2023-07-19 19:50:00+00:00      49  1.29313  0.00016  GBP_USD  1.29302  1.292933    1.292900   1.292896  0.000004  0.000087
+2023-07-19 20:51:40 Trade_decision:0
+2023-07-19 20:51:40 
+2023-07-19 20:51:40 
+2023-07-19 20:51:40 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:51:40 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:49:00+00:00      11  0.96197  0.00016  EUR_CHF  0.961965  0.961966    0.961995        NaN       NaN -0.000001
+8 2023-07-19 19:50:00+00:00      34  0.96201  0.00016  EUR_CHF  0.961990  0.961971    0.961965   0.961966 -0.000001  0.000019
+2023-07-19 20:51:40 Trade_decision:1
+2023-07-19 20:51:40 
+2023-07-19 20:51:40 
+2023-07-19 20:51:40 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:51:40 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:49:00+00:00       5  0.86619  0.00014  EUR_GBP  0.86619  0.866196     0.86619        NaN       NaN -0.000006
+8 2023-07-19 19:50:00+00:00      18  0.86615  0.00014  EUR_GBP  0.86617  0.866190     0.86619   0.866196 -0.000006 -0.000020
+2023-07-19 20:51:40 Trade_decision:0
+2023-07-19 20:51:40 
+2023-07-19 20:52:03 
+2023-07-19 20:52:03 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:52:03 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2       MA_8  PREV_SHORT  PREV_LONG   D_PREV    D_NOW
+7 2023-07-19 19:50:00+00:00      83  180.658   0.021  GBP_JPY  180.645  180.63525     180.633        NaN      NaN  0.00975
+8 2023-07-19 19:51:00+00:00      80  180.646   0.029  GBP_JPY  180.652  180.63600     180.645  180.63525  0.00975  0.01600
+2023-07-19 20:52:03 Trade_decision:0
+2023-07-19 20:52:03 
+2023-07-19 20:52:03 
+2023-07-19 20:52:03 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:52:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:50:00+00:00      18  0.86615  0.00014  EUR_GBP  0.866170  0.866190     0.86619        NaN      NaN -0.000020
+8 2023-07-19 19:51:00+00:00      29  0.86610  0.00015  EUR_GBP  0.866125  0.866177     0.86617    0.86619 -0.00002 -0.000052
+2023-07-19 20:52:03 Trade_decision:0
+2023-07-19 20:52:03 
+2023-07-19 20:52:29 
+2023-07-19 20:52:29 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:52:29 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:50:00+00:00      54  1.12000  0.00016  EUR_USD  1.119955  1.119909    1.119885        NaN       NaN  0.000046
+8 2023-07-19 19:51:00+00:00      57  1.12005  0.00016  EUR_USD  1.120025  1.119927    1.119955   1.119909  0.000046  0.000098
+2023-07-19 20:52:29 Trade_decision:0
+2023-07-19 20:52:29 
+2023-07-19 20:52:29 
+2023-07-19 20:52:29 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:52:29 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:50:00+00:00      21  0.6774  0.00014  AUD_USD  0.677365  0.677324    0.677345        NaN       NaN  0.000041
+8 2023-07-19 19:51:00+00:00      21  0.6774  0.00013  AUD_USD  0.677400  0.677344    0.677365   0.677324  0.000041  0.000056
+2023-07-19 20:52:29 Trade_decision:0
+2023-07-19 20:52:29 
+2023-07-19 20:52:29 
+2023-07-19 20:52:29 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:52:29 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:50:00+00:00      49  1.29313  0.00016  GBP_USD  1.293020  1.292933     1.29290        NaN       NaN  0.000087
+8 2023-07-19 19:51:00+00:00      54  1.29320  0.00015  GBP_USD  1.293165  1.292970     1.29302   1.292933  0.000087  0.000195
+2023-07-19 20:52:29 Trade_decision:0
+2023-07-19 20:52:29 
+2023-07-19 20:52:29 
+2023-07-19 20:52:29 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:52:30 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:50:00+00:00      34  0.96201  0.00016  EUR_CHF  0.961990  0.961971    0.961965        NaN       NaN  0.000019
+8 2023-07-19 19:51:00+00:00      61  0.96196  0.00015  EUR_CHF  0.961985  0.961974    0.961990   0.961971  0.000019  0.000011
+2023-07-19 20:52:30 Trade_decision:0
+2023-07-19 20:52:30 
+2023-07-19 20:53:02 
+2023-07-19 20:53:02 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:53:02 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2     MA_8  PREV_SHORT  PREV_LONG  D_PREV  D_NOW
+7 2023-07-19 19:51:00+00:00      80  180.646   0.029  GBP_JPY  180.652  180.636     180.645        NaN     NaN  0.016
+8 2023-07-19 19:52:00+00:00      63  180.636   0.030  GBP_JPY  180.641  180.635     180.652    180.636   0.016  0.006
+2023-07-19 20:53:02 Trade_decision:0
+2023-07-19 20:53:02 
+2023-07-19 20:53:02 
+2023-07-19 20:53:02 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:53:02 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:51:00+00:00      21  0.6774  0.00013  AUD_USD  0.6774  0.677344    0.677365        NaN       NaN  0.000056
+8 2023-07-19 19:52:00+00:00       6  0.6774  0.00013  AUD_USD  0.6774  0.677354    0.677400   0.677344  0.000056  0.000046
+2023-07-19 20:53:02 Trade_decision:0
+2023-07-19 20:53:02 
+2023-07-19 20:53:02 
+2023-07-19 20:53:02 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:53:02 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:51:00+00:00      54  1.2932  0.00015  GBP_USD  1.293165  1.292970    1.293020        NaN       NaN  0.000195
+8 2023-07-19 19:52:00+00:00      31  1.2931  0.00017  GBP_USD  1.293150  1.292994    1.293165    1.29297  0.000195  0.000156
+2023-07-19 20:53:02 Trade_decision:0
+2023-07-19 20:53:02 
+2023-07-19 20:53:02 
+2023-07-19 20:53:02 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:53:02 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:51:00+00:00      29  0.86610  0.00015  EUR_GBP  0.866125  0.866178    0.866170        NaN       NaN -0.000053
+8 2023-07-19 19:52:00+00:00      16  0.86614  0.00015  EUR_GBP  0.866120  0.866170    0.866125   0.866178 -0.000053 -0.000050
+2023-07-19 20:53:02 Trade_decision:0
+2023-07-19 20:53:02 
+2023-07-19 20:53:13 
+2023-07-19 20:53:13 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:53:13 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:51:00+00:00      57  1.12005  0.00016  EUR_USD  1.120025  1.119927    1.119955        NaN       NaN  0.000098
+8 2023-07-19 19:52:00+00:00      32  1.12001  0.00016  EUR_USD  1.120030  1.119941    1.120025   1.119927  0.000098  0.000089
+2023-07-19 20:53:13 Trade_decision:0
+2023-07-19 20:53:13 
+2023-07-19 20:53:13 
+2023-07-19 20:53:13 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:53:13 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:51:00+00:00      61  0.96196  0.00015  EUR_CHF  0.961985  0.961974    0.961990        NaN       NaN  0.000011
+8 2023-07-19 19:52:00+00:00      21  0.96195  0.00016  EUR_CHF  0.961955  0.961974    0.961985   0.961974  0.000011 -0.000019
+2023-07-19 20:53:13 Trade_decision:-1
+2023-07-19 20:53:13 
+2023-07-19 20:54:07 
+2023-07-19 20:54:07 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:54:08 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:52:00+00:00      32  1.12001  0.00016  EUR_USD  1.120030  1.119941    1.120025        NaN       NaN  0.000089
+8 2023-07-19 19:53:00+00:00      61  1.12004  0.00017  EUR_USD  1.120025  1.119959    1.120030   1.119941  0.000089  0.000066
+2023-07-19 20:54:08 Trade_decision:0
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:54:08 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2       MA_8  PREV_SHORT  PREV_LONG  D_PREV    D_NOW
+7 2023-07-19 19:52:00+00:00      63  180.636   0.030  GBP_JPY  180.641  180.63500     180.652        NaN     NaN  0.00600
+8 2023-07-19 19:53:00+00:00      84  180.626   0.028  GBP_JPY  180.631  180.63475     180.641    180.635   0.006 -0.00375
+2023-07-19 20:54:08 Trade_decision:-1
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:54:08 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:52:00+00:00       6  0.67740  0.00013  AUD_USD  0.67740  0.677354      0.6774        NaN       NaN  0.000046
+8 2023-07-19 19:53:00+00:00       5  0.67736  0.00013  AUD_USD  0.67738  0.677361      0.6774   0.677354  0.000046  0.000019
+2023-07-19 20:54:08 Trade_decision:0
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:54:08 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:52:00+00:00      31  1.29310  0.00017  GBP_USD  1.293150  1.292994    1.293165        NaN       NaN  0.000156
+8 2023-07-19 19:53:00+00:00      39  1.29301  0.00016  GBP_USD  1.293055  1.293008    1.293150   1.292994  0.000156  0.000047
+2023-07-19 20:54:08 Trade_decision:0
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:54:08 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:52:00+00:00      21  0.96195  0.00016  EUR_CHF  0.961955  0.961974    0.961985        NaN       NaN -0.000019
+8 2023-07-19 19:53:00+00:00      42  0.96202  0.00017  EUR_CHF  0.961985  0.961984    0.961955   0.961974 -0.000019  0.000001
+2023-07-19 20:54:08 Trade_decision:1
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 
+2023-07-19 20:54:08 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:54:08 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:52:00+00:00      16  0.86614  0.00015  EUR_GBP  0.866120  0.866170    0.866125        NaN      NaN -0.000050
+8 2023-07-19 19:53:00+00:00      38  0.86623  0.00014  EUR_GBP  0.866185  0.866174    0.866120    0.86617 -0.00005  0.000011
+2023-07-19 20:54:08 Trade_decision:1
+2023-07-19 20:54:08 
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:55:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:53:00+00:00      61  1.12004  0.00017  EUR_USD  1.120025  1.119959    1.120030        NaN       NaN  0.000066
+8 2023-07-19 19:54:00+00:00      50  1.12006  0.00015  EUR_USD  1.120050  1.119979    1.120025   1.119959  0.000066  0.000071
+2023-07-19 20:55:03 Trade_decision:0
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:55:03 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2       MA_8  PREV_SHORT  PREV_LONG   D_PREV    D_NOW
+7 2023-07-19 19:53:00+00:00      84  180.626   0.028  GBP_JPY  180.631  180.63475     180.641        NaN      NaN -0.00375
+8 2023-07-19 19:54:00+00:00      91  180.634   0.031  GBP_JPY  180.630  180.63675     180.631  180.63475 -0.00375 -0.00675
+2023-07-19 20:55:03 Trade_decision:0
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:55:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:53:00+00:00       5  0.67736  0.00013  AUD_USD  0.677380  0.677361     0.67740        NaN       NaN  0.000019
+8 2023-07-19 19:54:00+00:00      26  0.67739  0.00014  AUD_USD  0.677375  0.677375     0.67738   0.677361  0.000019  0.000000
+2023-07-19 20:55:03 Trade_decision:0
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:55:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:53:00+00:00      39  1.29301  0.00016  GBP_USD  1.293055  1.293007    1.293150        NaN       NaN  0.000047
+8 2023-07-19 19:54:00+00:00      28  1.29312  0.00017  GBP_USD  1.293065  1.293035    1.293055   1.293007  0.000047  0.000030
+2023-07-19 20:55:03 Trade_decision:0
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:55:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:53:00+00:00      42  0.96202  0.00017  EUR_CHF  0.961985  0.961984    0.961955        NaN       NaN  0.000001
+8 2023-07-19 19:54:00+00:00      31  0.96208  0.00015  EUR_CHF  0.962050  0.961998    0.961985   0.961984  0.000001  0.000053
+2023-07-19 20:55:03 Trade_decision:0
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 
+2023-07-19 20:55:03 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:55:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:53:00+00:00      38  0.86623  0.00014  EUR_GBP  0.866185  0.866174    0.866120        NaN       NaN  0.000011
+8 2023-07-19 19:54:00+00:00      22  0.86618  0.00015  EUR_GBP  0.866205  0.866171    0.866185   0.866174  0.000011  0.000034
+2023-07-19 20:55:04 Trade_decision:0
+2023-07-19 20:55:04 
+2023-07-19 20:56:08 
+2023-07-19 20:56:08 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:56:08 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:54:00+00:00      50  1.12006  0.00015  EUR_USD  1.12005  1.119979    1.120025        NaN       NaN  0.000071
+8 2023-07-19 19:55:00+00:00      84  1.12020  0.00015  EUR_USD  1.12013  1.120016    1.120050   1.119979  0.000071  0.000114
+2023-07-19 20:56:08 Trade_decision:0
+2023-07-19 20:56:08 
+2023-07-19 20:56:08 
+2023-07-19 20:56:08 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:56:08 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:54:00+00:00      91  180.634   0.031  GBP_JPY  180.6300  180.636750     180.631        NaN      NaN -0.006750
+8 2023-07-19 19:55:00+00:00     144  180.667   0.026  GBP_JPY  180.6505  180.641625     180.630  180.63675 -0.00675  0.008875
+2023-07-19 20:56:08 Trade_decision:1
+2023-07-19 20:56:08 
+2023-07-19 20:56:08 
+2023-07-19 20:56:08 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:56:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG        D_PREV         D_NOW
+7 2023-07-19 19:54:00+00:00      26  0.67739  0.00014  AUD_USD  0.677375  0.677375    0.677380        NaN           NaN  1.110223e-16
+8 2023-07-19 19:55:00+00:00      41  0.67738  0.00013  AUD_USD  0.677385  0.677377    0.677375   0.677375  1.110223e-16  7.500000e-06
+2023-07-19 20:56:09 Trade_decision:0
+2023-07-19 20:56:09 
+2023-07-19 20:56:09 
+2023-07-19 20:56:09 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:56:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:54:00+00:00      28  1.29312  0.00017  GBP_USD  1.293065  1.293035    1.293055        NaN      NaN  0.000030
+8 2023-07-19 19:55:00+00:00      83  1.29339  0.00018  GBP_USD  1.293255  1.293094    1.293065   1.293035  0.00003  0.000161
+2023-07-19 20:56:09 Trade_decision:0
+2023-07-19 20:56:09 
+2023-07-19 20:56:09 
+2023-07-19 20:56:09 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:56:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:54:00+00:00      31  0.96208  0.00015  EUR_CHF  0.96205  0.961998    0.961985        NaN       NaN  0.000053
+8 2023-07-19 19:55:00+00:00      36  0.96202  0.00016  EUR_CHF  0.96205  0.961996    0.962050   0.961998  0.000053  0.000054
+2023-07-19 20:56:09 Trade_decision:0
+2023-07-19 20:56:09 
+2023-07-19 20:56:09 
+2023-07-19 20:56:09 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:56:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:54:00+00:00      22  0.86618  0.00015  EUR_GBP  0.866205  0.866171    0.866185        NaN       NaN  0.000034
+8 2023-07-19 19:55:00+00:00      30  0.86610  0.00015  EUR_GBP  0.866140  0.866160    0.866205   0.866171  0.000034 -0.000020
+2023-07-19 20:56:09 Trade_decision:-1
+2023-07-19 20:56:09 
+2023-07-19 20:57:03 
+2023-07-19 20:57:03 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:57:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:55:00+00:00      84  1.12020  0.00015  EUR_USD  1.120130  1.120016     1.12005        NaN       NaN  0.000114
+8 2023-07-19 19:56:00+00:00     120  1.12033  0.00016  EUR_USD  1.120265  1.120075     1.12013   1.120016  0.000114  0.000190
+2023-07-19 20:57:03 Trade_decision:0
+2023-07-19 20:57:03 
+2023-07-19 20:57:03 
+2023-07-19 20:57:03 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:57:04 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:55:00+00:00     144  180.667   0.026  GBP_JPY  180.6505  180.641625    180.6300         NaN       NaN  0.008875
+8 2023-07-19 19:56:00+00:00     173  180.678   0.023  GBP_JPY  180.6725  180.647125    180.6505  180.641625  0.008875  0.025375
+2023-07-19 20:57:04 Trade_decision:0
+2023-07-19 20:57:04 
+2023-07-19 20:57:04 
+2023-07-19 20:57:04 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:57:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:55:00+00:00      83  1.29339  0.00018  GBP_USD  1.293255  1.293094    1.293065        NaN       NaN  0.000161
+8 2023-07-19 19:56:00+00:00      96  1.29356  0.00019  GBP_USD  1.293475  1.293178    1.293255   1.293094  0.000161  0.000297
+2023-07-19 20:57:04 Trade_decision:0
+2023-07-19 20:57:04 
+2023-07-19 20:57:04 
+2023-07-19 20:57:04 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:57:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:55:00+00:00      30  0.86610  0.00015  EUR_GBP  0.86614  0.866160    0.866205        NaN      NaN -0.000020
+8 2023-07-19 19:56:00+00:00      68  0.86608  0.00013  EUR_GBP  0.86609  0.866146    0.866140    0.86616 -0.00002 -0.000056
+2023-07-19 20:57:04 Trade_decision:0
+2023-07-19 20:57:04 
+2023-07-19 20:57:15 
+2023-07-19 20:57:15 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:57:15 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:55:00+00:00      41  0.67738  0.00013  AUD_USD  0.677385  0.677377    0.677375        NaN       NaN  0.000008
+8 2023-07-19 19:56:00+00:00      27  0.67746  0.00014  AUD_USD  0.677420  0.677390    0.677385   0.677377  0.000008  0.000030
+2023-07-19 20:57:15 Trade_decision:0
+2023-07-19 20:57:15 
+2023-07-19 20:57:15 
+2023-07-19 20:57:15 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:57:15 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:55:00+00:00      36  0.96202  0.00016  EUR_CHF  0.96205  0.961996     0.96205        NaN       NaN  0.000054
+8 2023-07-19 19:56:00+00:00      56  0.96208  0.00015  EUR_CHF  0.96205  0.962011     0.96205   0.961996  0.000054  0.000039
+2023-07-19 20:57:15 Trade_decision:0
+2023-07-19 20:57:15 
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:58:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:56:00+00:00     120  1.12033  0.00016  EUR_USD  1.120265  1.120075    1.120130        NaN      NaN  0.000190
+8 2023-07-19 19:57:00+00:00     104  1.12036  0.00015  EUR_USD  1.120345  1.120131    1.120265   1.120075  0.00019  0.000214
+2023-07-19 20:58:09 Trade_decision:0
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:58:09 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:56:00+00:00     173  180.678   0.023  GBP_JPY  180.6725  180.647125    180.6505         NaN       NaN  0.025375
+8 2023-07-19 19:57:00+00:00     161  180.695   0.028  GBP_JPY  180.6865  180.655000    180.6725  180.647125  0.025375  0.031500
+2023-07-19 20:58:09 Trade_decision:0
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:58:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:56:00+00:00      27  0.67746  0.00014  AUD_USD  0.677420  0.677390    0.677385        NaN      NaN  0.000030
+8 2023-07-19 19:57:00+00:00      35  0.67743  0.00014  AUD_USD  0.677445  0.677403    0.677420    0.67739  0.00003  0.000042
+2023-07-19 20:58:09 Trade_decision:0
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:58:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:56:00+00:00      96  1.29356  0.00019  GBP_USD  1.293475  1.293178    1.293255        NaN       NaN  0.000297
+8 2023-07-19 19:57:00+00:00      99  1.29363  0.00016  GBP_USD  1.293595  1.293268    1.293475   1.293178  0.000297  0.000328
+2023-07-19 20:58:09 Trade_decision:0
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:58:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:56:00+00:00      56  0.96208  0.00015  EUR_CHF  0.96205  0.962011     0.96205        NaN       NaN  0.000039
+8 2023-07-19 19:57:00+00:00      57  0.96214  0.00017  EUR_CHF  0.96211  0.962033     0.96205   0.962011  0.000039  0.000077
+2023-07-19 20:58:09 Trade_decision:0
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 
+2023-07-19 20:58:09 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:58:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:56:00+00:00      68  0.86608  0.00013  EUR_GBP  0.86609  0.866146     0.86614        NaN       NaN -0.000056
+8 2023-07-19 19:57:00+00:00      37  0.86606  0.00013  EUR_GBP  0.86607  0.866130     0.86609   0.866146 -0.000056 -0.000060
+2023-07-19 20:58:09 Trade_decision:0
+2023-07-19 20:58:09 
+2023-07-19 20:59:03 
+2023-07-19 20:59:03 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 20:59:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:57:00+00:00     104  1.12036  0.00015  EUR_USD  1.120345  1.120131    1.120265        NaN       NaN  0.000214
+8 2023-07-19 19:58:00+00:00      97  1.12040  0.00015  EUR_USD  1.120380  1.120181    1.120345   1.120131  0.000214  0.000199
+2023-07-19 20:59:03 Trade_decision:0
+2023-07-19 20:59:03 
+2023-07-19 20:59:03 
+2023-07-19 20:59:03 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 20:59:03 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2     MA_8  PREV_SHORT  PREV_LONG  D_PREV   D_NOW
+7 2023-07-19 19:57:00+00:00     161  180.695   0.028  GBP_JPY  180.6865  180.655    180.6725        NaN     NaN  0.0315
+8 2023-07-19 19:58:00+00:00     167  180.706   0.021  GBP_JPY  180.7005  180.661    180.6865    180.655  0.0315  0.0395
+2023-07-19 20:59:03 Trade_decision:0
+2023-07-19 20:59:03 
+2023-07-19 20:59:03 
+2023-07-19 20:59:03 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 20:59:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:57:00+00:00      35  0.67743  0.00014  AUD_USD  0.677445  0.677403    0.677420        NaN       NaN  0.000042
+8 2023-07-19 19:58:00+00:00      30  0.67743  0.00014  AUD_USD  0.677430  0.677406    0.677445   0.677403  0.000042  0.000024
+2023-07-19 20:59:03 Trade_decision:0
+2023-07-19 20:59:03 
+2023-07-19 20:59:03 
+2023-07-19 20:59:03 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 20:59:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:57:00+00:00      99  1.29363  0.00016  GBP_USD  1.293595  1.293268    1.293475        NaN       NaN  0.000328
+8 2023-07-19 19:58:00+00:00     114  1.29360  0.00017  GBP_USD  1.293615  1.293326    1.293595   1.293268  0.000328  0.000289
+2023-07-19 20:59:04 Trade_decision:0
+2023-07-19 20:59:04 
+2023-07-19 20:59:04 
+2023-07-19 20:59:04 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 20:59:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:57:00+00:00      57  0.96214  0.00017  EUR_CHF  0.962110  0.962033     0.96205        NaN       NaN  0.000077
+8 2023-07-19 19:58:00+00:00      55  0.96211  0.00018  EUR_CHF  0.962125  0.962045     0.96211   0.962033  0.000077  0.000080
+2023-07-19 20:59:04 Trade_decision:0
+2023-07-19 20:59:04 
+2023-07-19 20:59:04 
+2023-07-19 20:59:04 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 20:59:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:57:00+00:00      37  0.86606  0.00013  EUR_GBP  0.86607  0.866130     0.86609        NaN      NaN -0.000060
+8 2023-07-19 19:58:00+00:00      38  0.86610  0.00014  EUR_GBP  0.86608  0.866124     0.86607    0.86613 -0.00006 -0.000044
+2023-07-19 20:59:04 Trade_decision:0
+2023-07-19 20:59:04 
+2023-07-19 21:00:08 
+2023-07-19 21:00:08 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:00:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:58:00+00:00      97  1.12040  0.00015  EUR_USD  1.12038  1.120181    1.120345        NaN       NaN  0.000199
+8 2023-07-19 19:59:00+00:00      91  1.12038  0.00016  EUR_USD  1.12039  1.120223    1.120380   1.120181  0.000199  0.000167
+2023-07-19 21:00:09 Trade_decision:0
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:00:09 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2     MA_8  PREV_SHORT  PREV_LONG  D_PREV   D_NOW
+7 2023-07-19 19:58:00+00:00     167  180.706   0.021  GBP_JPY  180.7005  180.661    180.6865        NaN     NaN  0.0395
+8 2023-07-19 19:59:00+00:00     177  180.726   0.028  GBP_JPY  180.7160  180.671    180.7005    180.661  0.0395  0.0450
+2023-07-19 21:00:09 Trade_decision:0
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:00:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:58:00+00:00      30  0.67743  0.00014  AUD_USD  0.677430  0.677406    0.677445        NaN       NaN  0.000024
+8 2023-07-19 19:59:00+00:00      33  0.67740  0.00013  AUD_USD  0.677415  0.677406    0.677430   0.677406  0.000024  0.000009
+2023-07-19 21:00:09 Trade_decision:0
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:00:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:58:00+00:00     114  1.29360  0.00017  GBP_USD  1.293615  1.293326    1.293595        NaN       NaN  0.000289
+8 2023-07-19 19:59:00+00:00      94  1.29366  0.00019  GBP_USD  1.293630  1.293384    1.293615   1.293326  0.000289  0.000246
+2023-07-19 21:00:09 Trade_decision:0
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:00:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 19:58:00+00:00      55  0.96211  0.00018  EUR_CHF  0.962125  0.962045    0.962110        NaN      NaN  0.000080
+8 2023-07-19 19:59:00+00:00      51  0.96210  0.00017  EUR_CHF  0.962105  0.962062    0.962125   0.962045  0.00008  0.000043
+2023-07-19 21:00:09 Trade_decision:0
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 
+2023-07-19 21:00:09 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:00:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:58:00+00:00      38  0.86610  0.00014  EUR_GBP  0.86608  0.866124     0.86607        NaN       NaN -0.000044
+8 2023-07-19 19:59:00+00:00      59  0.86606  0.00015  EUR_GBP  0.86608  0.866119     0.86608   0.866124 -0.000044 -0.000039
+2023-07-19 21:00:09 Trade_decision:0
+2023-07-19 21:00:09 
+2023-07-19 21:01:03 
+2023-07-19 21:01:03 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:01:03 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:59:00+00:00      91  1.12038  0.00016  EUR_USD  1.12039  1.120223     1.12038        NaN       NaN  0.000167
+8 2023-07-19 20:00:00+00:00     110  1.12038  0.00015  EUR_USD  1.12038  1.120269     1.12039   1.120223  0.000167  0.000111
+2023-07-19 21:01:03 Trade_decision:0
+2023-07-19 21:01:03 
+2023-07-19 21:01:03 
+2023-07-19 21:01:03 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:01:03 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT  PREV_LONG  D_PREV     D_NOW
+7 2023-07-19 19:59:00+00:00     177  180.726   0.028  GBP_JPY  180.7160  180.671000    180.7005        NaN     NaN  0.045000
+8 2023-07-19 20:00:00+00:00     194  180.729   0.026  GBP_JPY  180.7275  180.682625    180.7160    180.671   0.045  0.044875
+2023-07-19 21:01:03 Trade_decision:0
+2023-07-19 21:01:03 
+2023-07-19 21:01:03 
+2023-07-19 21:01:03 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:01:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:59:00+00:00      94  1.29366  0.00019  GBP_USD  1.29363  1.293384    1.293615        NaN       NaN  0.000246
+8 2023-07-19 20:00:00+00:00     150  1.29384  0.00017  GBP_USD  1.29375  1.293476    1.293630   1.293384  0.000246  0.000274
+2023-07-19 21:01:04 Trade_decision:0
+2023-07-19 21:01:04 
+2023-07-19 21:01:04 
+2023-07-19 21:01:04 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:01:04 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:59:00+00:00      51  0.9621  0.00017  EUR_CHF  0.962105  0.962063    0.962125        NaN       NaN  0.000042
+8 2023-07-19 20:00:00+00:00      63  0.9620  0.00017  EUR_CHF  0.962050  0.962069    0.962105   0.962063  0.000042 -0.000019
+2023-07-19 21:01:04 Trade_decision:-1
+2023-07-19 21:01:04 
+2023-07-19 21:01:04 
+2023-07-19 21:01:04 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:01:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:59:00+00:00      59  0.86606  0.00015  EUR_GBP  0.866080  0.866119     0.86608        NaN       NaN -0.000039
+8 2023-07-19 20:00:00+00:00      68  0.86595  0.00014  EUR_GBP  0.866005  0.866095     0.86608   0.866119 -0.000039 -0.000090
+2023-07-19 21:01:04 Trade_decision:0
+2023-07-19 21:01:04 
+2023-07-19 21:01:15 
+2023-07-19 21:01:15 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:01:15 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 19:59:00+00:00      33  0.67740  0.00013  AUD_USD  0.677415  0.677406    0.677430        NaN       NaN  0.000009
+8 2023-07-19 20:00:00+00:00      33  0.67737  0.00014  AUD_USD  0.677385  0.677402    0.677415   0.677406  0.000009 -0.000017
+2023-07-19 21:01:15 Trade_decision:-1
+2023-07-19 21:01:15 
+2023-07-19 21:02:09 
+2023-07-19 21:02:09 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:02:09 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:00:00+00:00     110  1.12038  0.00015  EUR_USD  1.120380  1.120269     1.12039        NaN       NaN  0.000111
+8 2023-07-19 20:01:00+00:00      99  1.12045  0.00016  EUR_USD  1.120415  1.120320     1.12038   1.120269  0.000111  0.000095
+2023-07-19 21:02:09 Trade_decision:0
+2023-07-19 21:02:09 
+2023-07-19 21:02:09 
+2023-07-19 21:02:09 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:02:10 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:00:00+00:00     194  180.729   0.026  GBP_JPY  180.7275  180.682625    180.7160         NaN       NaN  0.044875
+8 2023-07-19 20:01:00+00:00     159  180.745   0.030  GBP_JPY  180.7370  180.697500    180.7275  180.682625  0.044875  0.039500
+2023-07-19 21:02:10 Trade_decision:0
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:02:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:00:00+00:00      33  0.67737  0.00014  AUD_USD  0.677385  0.677403    0.677415        NaN       NaN -0.000018
+8 2023-07-19 20:01:00+00:00      34  0.67746  0.00014  AUD_USD  0.677415  0.677415    0.677385   0.677403 -0.000018  0.000000
+2023-07-19 21:02:10 Trade_decision:0
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:02:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:00:00+00:00     150  1.29384  0.00017  GBP_USD  1.29375  1.293476     1.29363        NaN       NaN  0.000274
+8 2023-07-19 20:01:00+00:00     141  1.29392  0.00018  GBP_USD  1.29388  1.293590     1.29375   1.293476  0.000274  0.000290
+2023-07-19 21:02:10 Trade_decision:0
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:02:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:00:00+00:00      63  0.96200  0.00017  EUR_CHF  0.96205  0.962069    0.962105        NaN       NaN -0.000019
+8 2023-07-19 20:01:00+00:00      57  0.96174  0.00017  EUR_CHF  0.96187  0.962034    0.962050   0.962069 -0.000019 -0.000164
+2023-07-19 21:02:10 Trade_decision:0
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 
+2023-07-19 21:02:10 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:02:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 20:00:00+00:00      68  0.86595  0.00014  EUR_GBP  0.866005  0.866095    0.866080        NaN      NaN -0.000090
+8 2023-07-19 20:01:00+00:00      46  0.86594  0.00013  EUR_GBP  0.865945  0.866059    0.866005   0.866095 -0.00009 -0.000114
+2023-07-19 21:02:10 Trade_decision:0
+2023-07-19 21:02:10 
+2023-07-19 21:03:04 
+2023-07-19 21:03:04 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:03:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:01:00+00:00      99  1.12045  0.00016  EUR_USD  1.120415  1.120320    1.120380        NaN       NaN  0.000095
+8 2023-07-19 20:02:00+00:00      64  1.12042  0.00017  EUR_USD  1.120435  1.120365    1.120415    1.12032  0.000095  0.000070
+2023-07-19 21:03:04 Trade_decision:0
+2023-07-19 21:03:04 
+2023-07-19 21:03:04 
+2023-07-19 21:03:04 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:03:05 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2       MA_8  PREV_SHORT  PREV_LONG  D_PREV    D_NOW
+7 2023-07-19 20:01:00+00:00     159  180.745   0.030  GBP_JPY  180.7370  180.69750    180.7275        NaN     NaN  0.03950
+8 2023-07-19 20:02:00+00:00     114  180.752   0.029  GBP_JPY  180.7485  180.71225    180.7370   180.6975  0.0395  0.03625
+2023-07-19 21:03:05 Trade_decision:0
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:03:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG  D_PREV     D_NOW
+7 2023-07-19 20:01:00+00:00      34  0.67746  0.00014  AUD_USD  0.677415  0.677415    0.677385        NaN     NaN  0.000000
+8 2023-07-19 20:02:00+00:00      47  0.67744  0.00013  AUD_USD  0.677450  0.677421    0.677415   0.677415     0.0  0.000029
+2023-07-19 21:03:05 Trade_decision:0
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:03:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 20:01:00+00:00     141  1.29392  0.00018  GBP_USD  1.293880  1.293590     1.29375        NaN      NaN  0.000290
+8 2023-07-19 20:02:00+00:00      61  1.29393  0.00020  GBP_USD  1.293925  1.293691     1.29388    1.29359  0.00029  0.000234
+2023-07-19 21:03:05 Trade_decision:0
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:03:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:01:00+00:00      57  0.96174  0.00017  EUR_CHF  0.96187  0.962034     0.96205        NaN       NaN -0.000164
+8 2023-07-19 20:02:00+00:00      68  0.96178  0.00015  EUR_CHF  0.96176  0.961996     0.96187   0.962034 -0.000164 -0.000236
+2023-07-19 21:03:05 Trade_decision:0
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 
+2023-07-19 21:03:05 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:03:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:01:00+00:00      46  0.86594  0.00013  EUR_GBP  0.865945  0.866059    0.866005        NaN       NaN -0.000114
+8 2023-07-19 20:02:00+00:00      43  0.86590  0.00015  EUR_GBP  0.865920  0.866024    0.865945   0.866059 -0.000114 -0.000104
+2023-07-19 21:03:05 Trade_decision:0
+2023-07-19 21:03:05 
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:04:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 20:02:00+00:00      64  1.12042  0.00017  EUR_USD  1.120435  1.120365    1.120415        NaN      NaN  0.000070
+8 2023-07-19 20:03:00+00:00      26  1.12044  0.00014  EUR_USD  1.120430  1.120395    1.120435   1.120365  0.00007  0.000035
+2023-07-19 21:04:10 Trade_decision:0
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:04:10 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 20:02:00+00:00     114  180.752   0.029  GBP_JPY  180.7485  180.712250    180.7370        NaN      NaN  0.036250
+8 2023-07-19 20:03:00+00:00      43  180.776   0.023  GBP_JPY  180.7640  180.725875    180.7485  180.71225  0.03625  0.038125
+2023-07-19 21:04:10 Trade_decision:0
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:04:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:02:00+00:00      47  0.67744  0.00013  AUD_USD  0.677450  0.677421    0.677415        NaN       NaN  0.000029
+8 2023-07-19 20:03:00+00:00      45  0.67749  0.00014  AUD_USD  0.677465  0.677435    0.677450   0.677421  0.000029  0.000030
+2023-07-19 21:04:10 Trade_decision:0
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:04:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:02:00+00:00      61  1.29393  0.00020  GBP_USD  1.293925  1.293691    1.293880        NaN       NaN  0.000234
+8 2023-07-19 20:03:00+00:00      52  1.29402  0.00015  GBP_USD  1.293975  1.293770    1.293925   1.293691  0.000234  0.000205
+2023-07-19 21:04:10 Trade_decision:0
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:04:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:02:00+00:00      68  0.96178  0.00015  EUR_CHF  0.96176  0.961996     0.96187        NaN       NaN -0.000236
+8 2023-07-19 20:03:00+00:00      38  0.96176  0.00016  EUR_CHF  0.96177  0.961964     0.96176   0.961996 -0.000236 -0.000194
+2023-07-19 21:04:10 Trade_decision:0
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 
+2023-07-19 21:04:10 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:04:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:02:00+00:00      43  0.86590  0.00015  EUR_GBP  0.86592  0.866024    0.865945        NaN       NaN -0.000104
+8 2023-07-19 20:03:00+00:00      37  0.86584  0.00012  EUR_GBP  0.86587  0.865991    0.865920   0.866024 -0.000104 -0.000121
+2023-07-19 21:04:11 Trade_decision:0
+2023-07-19 21:04:11 
+2023-07-19 21:05:04 
+2023-07-19 21:05:04 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:05:04 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:03:00+00:00      26  1.12044  0.00014  EUR_USD  1.12043  1.120395    1.120435        NaN       NaN  0.000035
+8 2023-07-19 20:04:00+00:00      32  1.12034  0.00017  EUR_USD  1.12039  1.120396    1.120430   1.120395  0.000035 -0.000006
+2023-07-19 21:05:04 Trade_decision:-1
+2023-07-19 21:05:04 
+2023-07-19 21:05:04 
+2023-07-19 21:05:04 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:05:05 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:03:00+00:00      43  180.776   0.023  GBP_JPY  180.764  180.725875    180.7485         NaN       NaN  0.038125
+8 2023-07-19 20:04:00+00:00      76  180.752   0.026  GBP_JPY  180.764  180.735125    180.7640  180.725875  0.038125  0.028875
+2023-07-19 21:05:05 Trade_decision:0
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:05:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV    D_NOW
+7 2023-07-19 20:03:00+00:00      45  0.67749  0.00014  AUD_USD  0.677465  0.677435    0.677450        NaN      NaN  0.00003
+8 2023-07-19 20:04:00+00:00      33  0.67746  0.00013  AUD_USD  0.677475  0.677435    0.677465   0.677435  0.00003  0.00004
+2023-07-19 21:05:05 Trade_decision:0
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:05:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:03:00+00:00      52  1.29402  0.00015  GBP_USD  1.293975  1.293770    1.293925        NaN       NaN  0.000205
+8 2023-07-19 20:04:00+00:00      28  1.29392  0.00016  GBP_USD  1.293970  1.293815    1.293975    1.29377  0.000205  0.000155
+2023-07-19 21:05:05 Trade_decision:0
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:05:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:03:00+00:00      38  0.96176  0.00016  EUR_CHF  0.96177  0.961964     0.96176        NaN       NaN -0.000194
+8 2023-07-19 20:04:00+00:00      47  0.96172  0.00015  EUR_CHF  0.96174  0.961919     0.96177   0.961964 -0.000194 -0.000179
+2023-07-19 21:05:05 Trade_decision:0
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 
+2023-07-19 21:05:05 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:05:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:03:00+00:00      37  0.86584  0.00012  EUR_GBP  0.86587  0.865991     0.86592        NaN       NaN -0.000121
+8 2023-07-19 20:04:00+00:00      12  0.86584  0.00015  EUR_GBP  0.86584  0.865961     0.86587   0.865991 -0.000121 -0.000121
+2023-07-19 21:05:05 Trade_decision:0
+2023-07-19 21:05:05 
+2023-07-19 21:06:10 
+2023-07-19 21:06:10 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:06:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:04:00+00:00      32  1.12034  0.00017  EUR_USD  1.12039  1.120396     1.12043        NaN       NaN -0.000006
+8 2023-07-19 20:05:00+00:00      57  1.12028  0.00017  EUR_USD  1.12031  1.120386     1.12039   1.120396 -0.000006 -0.000076
+2023-07-19 21:06:10 Trade_decision:0
+2023-07-19 21:06:10 
+2023-07-19 21:06:10 
+2023-07-19 21:06:10 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:06:10 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:04:00+00:00      76  180.752   0.026  GBP_JPY  180.7640  180.735125     180.764         NaN       NaN  0.028875
+8 2023-07-19 20:05:00+00:00      72  180.747   0.026  GBP_JPY  180.7495  180.741625     180.764  180.735125  0.028875  0.007875
+2023-07-19 21:06:10 Trade_decision:0
+2023-07-19 21:06:10 
+2023-07-19 21:06:10 
+2023-07-19 21:06:10 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:06:10 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 20:04:00+00:00      33  0.67746  0.00013  AUD_USD  0.677475  0.677435    0.677465        NaN      NaN  0.000040
+8 2023-07-19 20:05:00+00:00      33  0.67740  0.00014  AUD_USD  0.677430  0.677431    0.677475   0.677435  0.00004 -0.000001
+2023-07-19 21:06:10 Trade_decision:-1
+2023-07-19 21:06:10 
+2023-07-19 21:06:10 
+2023-07-19 21:06:10 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:06:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:04:00+00:00      28  1.29392  0.00016  GBP_USD  1.29397  1.293815    1.293975        NaN       NaN  0.000155
+8 2023-07-19 20:05:00+00:00      44  1.29390  0.00016  GBP_USD  1.29391  1.293849    1.293970   1.293815  0.000155  0.000061
+2023-07-19 21:06:11 Trade_decision:0
+2023-07-19 21:06:11 
+2023-07-19 21:06:11 
+2023-07-19 21:06:11 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:06:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:04:00+00:00      47  0.96172  0.00015  EUR_CHF  0.96174  0.961919     0.96177        NaN       NaN -0.000179
+8 2023-07-19 20:05:00+00:00      19  0.96174  0.00015  EUR_CHF  0.96173  0.961869     0.96174   0.961919 -0.000179 -0.000139
+2023-07-19 21:06:11 Trade_decision:0
+2023-07-19 21:06:11 
+2023-07-19 21:06:11 
+2023-07-19 21:06:11 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:06:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:04:00+00:00      12  0.86584  0.00015  EUR_GBP  0.86584  0.865961     0.86587        NaN       NaN -0.000121
+8 2023-07-19 20:05:00+00:00      15  0.86580  0.00015  EUR_GBP  0.86582  0.865929     0.86584   0.865961 -0.000121 -0.000109
+2023-07-19 21:06:11 Trade_decision:0
+2023-07-19 21:06:11 
+2023-07-19 21:08:37 
+2023-07-19 21:08:37 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:08:38 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:06:00+00:00      67  1.12026  0.00016  EUR_USD  1.12027  1.120369     1.12031        NaN       NaN -0.000099
+8 2023-07-19 20:07:00+00:00      44  1.12016  0.00015  EUR_USD  1.12021  1.120341     1.12027   1.120369 -0.000099 -0.000131
+2023-07-19 21:08:38 Trade_decision:0
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:08:38 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:06:00+00:00      68  180.744   0.028  GBP_JPY  180.7455  180.746375    180.7495         NaN       NaN -0.000875
+8 2023-07-19 20:07:00+00:00      67  180.744   0.028  GBP_JPY  180.7440  180.748625    180.7455  180.746375 -0.000875 -0.004625
+2023-07-19 21:08:38 Trade_decision:0
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:08:38 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:06:00+00:00      15  0.6774  0.00013  AUD_USD  0.6774  0.677427     0.67743        NaN       NaN -0.000027
+8 2023-07-19 20:07:00+00:00      12  0.6774  0.00013  AUD_USD  0.6774  0.677428     0.67740   0.677427 -0.000027 -0.000028
+2023-07-19 21:08:38 Trade_decision:0
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:08:38 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:06:00+00:00      22  1.29388  0.00017  GBP_USD  1.29389  1.293884     1.29391        NaN       NaN  0.000006
+8 2023-07-19 20:07:00+00:00      17  1.29380  0.00016  GBP_USD  1.29384  1.293901     1.29389   1.293884  0.000006 -0.000061
+2023-07-19 21:08:38 Trade_decision:-1
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:08:38 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+7 2023-07-19 20:06:00+00:00      23  0.96172  0.00016  EUR_CHF  0.961730  0.961820     0.96173        NaN      NaN -0.000090
+8 2023-07-19 20:07:00+00:00      14  0.96169  0.00018  EUR_CHF  0.961705  0.961769     0.96173    0.96182 -0.00009 -0.000064
+2023-07-19 21:08:38 Trade_decision:0
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 
+2023-07-19 21:08:38 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:08:39 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:06:00+00:00      16  0.86582  0.00016  EUR_GBP  0.865810  0.865894     0.86582        NaN       NaN -0.000084
+8 2023-07-19 20:07:00+00:00      20  0.86579  0.00012  EUR_GBP  0.865805  0.865860     0.86581   0.865894 -0.000084 -0.000055
+2023-07-19 21:08:39 Trade_decision:0
+2023-07-19 21:08:39 
+2023-07-19 21:09:41 
+2023-07-19 21:09:41 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:09:41 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:07:00+00:00      44  1.12016  0.00015  EUR_USD  1.120210  1.120341     1.12027        NaN       NaN -0.000131
+8 2023-07-19 20:08:00+00:00      34  1.12021  0.00016  EUR_USD  1.120185  1.120320     1.12021   1.120341 -0.000131 -0.000135
+2023-07-19 21:09:41 Trade_decision:0
+2023-07-19 21:09:41 
+2023-07-19 21:09:41 
+2023-07-19 21:09:41 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:09:42 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:07:00+00:00      67  180.744   0.028  GBP_JPY  180.744  180.748625    180.7455         NaN       NaN -0.004625
+8 2023-07-19 20:08:00+00:00      55  180.754   0.026  GBP_JPY  180.749  180.751750    180.7440  180.748625 -0.004625 -0.002750
+2023-07-19 21:09:42 Trade_decision:0
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:09:42 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:07:00+00:00      12  0.6774  0.00013  AUD_USD  0.6774  0.677427      0.6774        NaN       NaN -0.000027
+8 2023-07-19 20:08:00+00:00      13  0.6774  0.00013  AUD_USD  0.6774  0.677431      0.6774   0.677427 -0.000027 -0.000031
+2023-07-19 21:09:42 Trade_decision:0
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:09:42 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:07:00+00:00      17  1.29380  0.00016  GBP_USD  1.29384  1.293901     1.29389        NaN       NaN -0.000061
+8 2023-07-19 20:08:00+00:00      13  1.29384  0.00016  GBP_USD  1.29382  1.293901     1.29384   1.293901 -0.000061 -0.000081
+2023-07-19 21:09:42 Trade_decision:0
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:09:42 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:07:00+00:00      14  0.96169  0.00018  EUR_CHF  0.961705  0.961769    0.961730        NaN       NaN -0.000064
+8 2023-07-19 20:08:00+00:00      21  0.96172  0.00015  EUR_CHF  0.961705  0.961734    0.961705   0.961769 -0.000064 -0.000029
+2023-07-19 21:09:42 Trade_decision:0
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 
+2023-07-19 21:09:42 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:09:43 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:07:00+00:00      20  0.86579  0.00012  EUR_GBP  0.865805  0.865860    0.865810        NaN       NaN -0.000055
+8 2023-07-19 20:08:00+00:00      20  0.86580  0.00014  EUR_GBP  0.865795  0.865841    0.865805    0.86586 -0.000055 -0.000046
+2023-07-19 21:09:43 Trade_decision:0
+2023-07-19 21:09:43 
+2023-07-19 21:10:05 
+2023-07-19 21:10:05 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:10:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:08:00+00:00      34  1.12021  0.00016  EUR_USD  1.120185  1.120320    1.120210        NaN       NaN -0.000135
+8 2023-07-19 20:09:00+00:00      22  1.12022  0.00015  EUR_USD  1.120215  1.120291    1.120185    1.12032 -0.000135 -0.000076
+2023-07-19 21:10:05 Trade_decision:0
+2023-07-19 21:10:05 
+2023-07-19 21:10:05 
+2023-07-19 21:10:05 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:10:05 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2       MA_8  PREV_SHORT  PREV_LONG   D_PREV    D_NOW
+7 2023-07-19 20:08:00+00:00      55  180.754   0.026  GBP_JPY  180.7490  180.75175     180.744        NaN      NaN -0.00275
+8 2023-07-19 20:09:00+00:00      81  180.767   0.026  GBP_JPY  180.7605  180.75450     180.749  180.75175 -0.00275  0.00600
+2023-07-19 21:10:05 Trade_decision:1
+2023-07-19 21:10:05 
+2023-07-19 21:10:05 
+2023-07-19 21:10:05 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:10:05 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR    MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:08:00+00:00      13  0.6774  0.00013  AUD_USD  0.6774  0.677431      0.6774        NaN       NaN -0.000031
+8 2023-07-19 20:09:00+00:00      16  0.6774  0.00013  AUD_USD  0.6774  0.677424      0.6774   0.677431 -0.000031 -0.000024
+2023-07-19 21:10:05 Trade_decision:0
+2023-07-19 21:10:05 
+2023-07-19 21:10:05 
+2023-07-19 21:10:05 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:10:05 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:08:00+00:00      21  0.96172  0.00015  EUR_CHF  0.961705  0.961734    0.961705        NaN       NaN -0.000029
+8 2023-07-19 20:09:00+00:00      17  0.96173  0.00014  EUR_CHF  0.961725  0.961732    0.961705   0.961734 -0.000029 -0.000008
+2023-07-19 21:10:05 Trade_decision:0
+2023-07-19 21:10:05 
+2023-07-19 21:10:17 
+2023-07-19 21:10:17 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:10:17 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:08:00+00:00      13  1.29384  0.00016  GBP_USD  1.293820  1.293901     1.29384        NaN       NaN -0.000081
+8 2023-07-19 20:09:00+00:00      35  1.29381  0.00016  GBP_USD  1.293825  1.293888     1.29382   1.293901 -0.000081 -0.000063
+2023-07-19 21:10:17 Trade_decision:0
+2023-07-19 21:10:17 
+2023-07-19 21:10:17 
+2023-07-19 21:10:17 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:10:17 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:08:00+00:00      20  0.86580  0.00014  EUR_GBP  0.865795  0.865841    0.865805        NaN       NaN -0.000046
+8 2023-07-19 20:09:00+00:00      19  0.86582  0.00014  EUR_GBP  0.865810  0.865826    0.865795   0.865841 -0.000046 -0.000016
+2023-07-19 21:10:17 Trade_decision:0
+2023-07-19 21:10:17 
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:11:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:09:00+00:00      22  1.12022  0.00015  EUR_USD  1.120215  1.120291    1.120185        NaN       NaN -0.000076
+8 2023-07-19 20:10:00+00:00      40  1.12026  0.00014  EUR_USD  1.120240  1.120271    1.120215   1.120291 -0.000076 -0.000031
+2023-07-19 21:11:11 Trade_decision:0
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:11:11 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG  D_PREV  D_NOW
+7 2023-07-19 20:09:00+00:00      81  180.767   0.026  GBP_JPY  180.7605  180.7545    180.7490        NaN     NaN  0.006
+8 2023-07-19 20:10:00+00:00      70  180.760   0.027  GBP_JPY  180.7635  180.7555    180.7605   180.7545   0.006  0.008
+2023-07-19 21:11:11 Trade_decision:0
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:11:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:09:00+00:00      16  0.67740  0.00013  AUD_USD  0.67740  0.677424      0.6774        NaN       NaN -0.000024
+8 2023-07-19 20:10:00+00:00      15  0.67744  0.00014  AUD_USD  0.67742  0.677424      0.6774   0.677424 -0.000024 -0.000004
+2023-07-19 21:11:11 Trade_decision:0
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:11:11 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:09:00+00:00      35  1.29381  0.00016  GBP_USD  1.293825  1.293888    1.293820        NaN       NaN -0.000063
+8 2023-07-19 20:10:00+00:00      49  1.29382  0.00016  GBP_USD  1.293815  1.293874    1.293825   1.293888 -0.000063 -0.000059
+2023-07-19 21:11:11 Trade_decision:0
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 
+2023-07-19 21:11:11 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:11:12 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:09:00+00:00      17  0.96173  0.00014  EUR_CHF  0.961725  0.961732    0.961705        NaN       NaN -0.000008
+8 2023-07-19 20:10:00+00:00      38  0.96180  0.00015  EUR_CHF  0.961765  0.961735    0.961725   0.961732 -0.000008  0.000030
+2023-07-19 21:11:12 Trade_decision:1
+2023-07-19 21:11:12 
+2023-07-19 21:11:12 
+2023-07-19 21:11:12 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:11:12 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:09:00+00:00      19  0.86582  0.00014  EUR_GBP  0.86581  0.865826    0.865795        NaN       NaN -0.000016
+8 2023-07-19 20:10:00+00:00      14  0.86586  0.00012  EUR_GBP  0.86584  0.865821    0.865810   0.865826 -0.000016  0.000019
+2023-07-19 21:11:12 Trade_decision:1
+2023-07-19 21:11:12 
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:12:06 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 20:10:00+00:00      40  1.12026  0.00014  EUR_USD  1.120240  1.120271    1.120215   1.120291 -0.000076 -0.000031
+9 2023-07-19 20:11:00+00:00      25  1.12021  0.00016  EUR_USD  1.120235  1.120242    1.120240   1.120271 -0.000031 -0.000007
+2023-07-19 21:12:06 Trade_decision:0
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:12:06 Processed_df
+                       time  volume   mid_c  SPREAD     PAIR      MA_2       MA_8  PREV_SHORT  PREV_LONG  D_PREV    D_NOW
+7 2023-07-19 20:10:00+00:00      70  180.76   0.027  GBP_JPY  180.7635  180.75550    180.7605        NaN     NaN  0.00800
+8 2023-07-19 20:11:00+00:00      41  180.75   0.027  GBP_JPY  180.7550  180.75225    180.7635   180.7555   0.008  0.00275
+2023-07-19 21:12:06 Trade_decision:0
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:12:06 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:10:00+00:00      15  0.67744  0.00014  AUD_USD  0.67742  0.677424     0.67740        NaN       NaN -0.000004
+8 2023-07-19 20:11:00+00:00      18  0.67738  0.00013  AUD_USD  0.67741  0.677410     0.67742   0.677424 -0.000004  0.000000
+2023-07-19 21:12:06 Trade_decision:0
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:12:06 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:10:00+00:00      49  1.29382  0.00016  GBP_USD  1.293815  1.293874    1.293825        NaN       NaN -0.000059
+8 2023-07-19 20:11:00+00:00      38  1.29376  0.00017  GBP_USD  1.293790  1.293841    1.293815   1.293874 -0.000059 -0.000051
+2023-07-19 21:12:06 Trade_decision:0
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 
+2023-07-19 21:12:06 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:12:07 Processed_df
+                       time  volume   mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV    D_NOW
+7 2023-07-19 20:10:00+00:00      38  0.9618  0.00015  EUR_CHF  0.961765  0.961735    0.961725        NaN      NaN  0.00003
+8 2023-07-19 20:11:00+00:00      25  0.9618  0.00014  EUR_CHF  0.961800  0.961740    0.961765   0.961735  0.00003  0.00006
+2023-07-19 21:12:07 Trade_decision:0
+2023-07-19 21:12:07 
+2023-07-19 21:12:07 
+2023-07-19 21:12:07 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:12:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 20:10:00+00:00      14  0.86586  0.00012  EUR_GBP  0.865840  0.865821     0.86581   0.865826 -0.000016  0.000019
+9 2023-07-19 20:11:00+00:00       7  0.86587  0.00014  EUR_GBP  0.865865  0.865825     0.86584   0.865821  0.000019  0.000040
+2023-07-19 21:12:07 Trade_decision:0
+2023-07-19 21:12:07 
+2023-07-19 21:13:01 
+2023-07-19 21:13:01 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:13:01 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG        D_PREV         D_NOW
+7 2023-07-19 20:11:00+00:00      18  0.67738  0.00013  AUD_USD  0.677410  0.677410     0.67742        NaN           NaN  1.110223e-16
+8 2023-07-19 20:12:00+00:00      15  0.67737  0.00012  AUD_USD  0.677375  0.677399     0.67741    0.67741  1.110223e-16 -2.375000e-05
+2023-07-19 21:13:01 Trade_decision:-1
+2023-07-19 21:13:01 
+2023-07-19 21:13:01 
+2023-07-19 21:13:01 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:13:01 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:11:00+00:00      38  1.29376  0.00017  GBP_USD  1.29379  1.293841    1.293815        NaN       NaN -0.000051
+8 2023-07-19 20:12:00+00:00      46  1.29370  0.00016  GBP_USD  1.29373  1.293814    1.293790   1.293841 -0.000051 -0.000084
+2023-07-19 21:13:01 Trade_decision:0
+2023-07-19 21:13:01 
+2023-07-19 21:13:12 
+2023-07-19 21:13:12 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:13:12 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:11:00+00:00      25  1.12021  0.00016  EUR_USD  1.120235  1.120243    1.120240        NaN       NaN -0.000007
+8 2023-07-19 20:12:00+00:00      24  1.12014  0.00016  EUR_USD  1.120175  1.120218    1.120235   1.120243 -0.000007 -0.000043
+2023-07-19 21:13:12 Trade_decision:0
+2023-07-19 21:13:12 
+2023-07-19 21:13:12 
+2023-07-19 21:13:12 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:13:12 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2       MA_8  PREV_SHORT  PREV_LONG   D_PREV    D_NOW
+7 2023-07-19 20:11:00+00:00      41  180.750   0.027  GBP_JPY  180.755  180.75225    180.7635        NaN      NaN  0.00275
+8 2023-07-19 20:12:00+00:00      76  180.738   0.030  GBP_JPY  180.744  180.75050    180.7550  180.75225  0.00275 -0.00650
+2023-07-19 21:13:12 Trade_decision:-1
+2023-07-19 21:13:12 
+2023-07-19 21:13:12 
+2023-07-19 21:13:12 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:13:12 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG   D_PREV     D_NOW
+8 2023-07-19 20:11:00+00:00      25  0.96180  0.00014  EUR_CHF  0.96180  0.961740    0.961765   0.961735  0.00003  0.000060
+9 2023-07-19 20:12:00+00:00      19  0.96176  0.00016  EUR_CHF  0.96178  0.961745    0.961800   0.961740  0.00006  0.000035
+2023-07-19 21:13:12 Trade_decision:0
+2023-07-19 21:13:12 
+2023-07-19 21:13:12 
+2023-07-19 21:13:12 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:13:12 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 20:11:00+00:00       7  0.86587  0.00014  EUR_GBP  0.865865  0.865825    0.865840   0.865821  0.000019  0.000040
+9 2023-07-19 20:12:00+00:00      17  0.86586  0.00015  EUR_GBP  0.865865  0.865827    0.865865   0.865825  0.000040  0.000038
+2023-07-19 21:13:12 Trade_decision:0
+2023-07-19 21:13:12 
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:14:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:12:00+00:00      24  1.12014  0.00016  EUR_USD  1.120175  1.120217    1.120235        NaN       NaN -0.000042
+8 2023-07-19 20:13:00+00:00      20  1.12016  0.00014  EUR_USD  1.120150  1.120202    1.120175   1.120217 -0.000042 -0.000053
+2023-07-19 21:14:07 Trade_decision:0
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:14:07 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT  PREV_LONG  D_PREV     D_NOW
+7 2023-07-19 20:12:00+00:00      76  180.738   0.030  GBP_JPY  180.744  180.750500     180.755        NaN     NaN -0.006500
+8 2023-07-19 20:13:00+00:00      58  180.744   0.031  GBP_JPY  180.741  180.750125     180.744   180.7505 -0.0065 -0.009125
+2023-07-19 21:14:07 Trade_decision:0
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:14:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG        D_PREV     D_NOW
+8 2023-07-19 20:12:00+00:00      15  0.67737  0.00012  AUD_USD  0.677375  0.677399    0.677410   0.677410  1.110223e-16 -0.000024
+9 2023-07-19 20:13:00+00:00      20  0.67734  0.00011  AUD_USD  0.677355  0.677391    0.677375   0.677399 -2.375000e-05 -0.000036
+2023-07-19 21:14:07 Trade_decision:0
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:14:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:12:00+00:00      46  1.29370  0.00016  GBP_USD  1.29373  1.293814     1.29379        NaN       NaN -0.000084
+8 2023-07-19 20:13:00+00:00      57  1.29372  0.00019  GBP_USD  1.29371  1.293791     1.29373   1.293814 -0.000084 -0.000081
+2023-07-19 21:14:07 Trade_decision:0
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:14:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:12:00+00:00      19  0.96176  0.00016  EUR_CHF  0.96178  0.961745     0.96180        NaN       NaN  0.000035
+8 2023-07-19 20:13:00+00:00      16  0.96180  0.00015  EUR_CHF  0.96178  0.961753     0.96178   0.961745  0.000035  0.000027
+2023-07-19 21:14:07 Trade_decision:0
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 
+2023-07-19 21:14:07 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:14:07 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 20:12:00+00:00      17  0.86586  0.00015  EUR_GBP  0.865865  0.865827    0.865865   0.865825  0.000040  0.000038
+9 2023-07-19 20:13:00+00:00       8  0.86585  0.00016  EUR_GBP  0.865855  0.865834    0.865865   0.865827  0.000038  0.000021
+2023-07-19 21:14:07 Trade_decision:0
+2023-07-19 21:14:07 
+2023-07-19 21:15:01 
+2023-07-19 21:15:01 get_trade_decision() pair:GBP_JPY max_rows:10
+2023-07-19 21:15:01 Processed_df
+                       time  volume    mid_c  SPREAD     PAIR     MA_2        MA_8  PREV_SHORT   PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:13:00+00:00      58  180.744   0.031  GBP_JPY  180.741  180.750125     180.744         NaN       NaN -0.009125
+8 2023-07-19 20:14:00+00:00      44  180.746   0.030  GBP_JPY  180.745  180.750375     180.741  180.750125 -0.009125 -0.005375
+2023-07-19 21:15:01 Trade_decision:0
+2023-07-19 21:15:01 
+2023-07-19 21:15:01 
+2023-07-19 21:15:01 get_trade_decision() pair:GBP_USD max_rows:10
+2023-07-19 21:15:01 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:13:00+00:00      57  1.29372  0.00019  GBP_USD  1.29371  1.293791     1.29373        NaN       NaN -0.000081
+8 2023-07-19 20:14:00+00:00      28  1.29370  0.00015  GBP_USD  1.29371  1.293769     1.29371   1.293791 -0.000081 -0.000059
+2023-07-19 21:15:01 Trade_decision:0
+2023-07-19 21:15:01 
+2023-07-19 21:15:01 
+2023-07-19 21:15:01 get_trade_decision() pair:EUR_CHF max_rows:10
+2023-07-19 21:15:02 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR     MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:13:00+00:00      16  0.96180  0.00015  EUR_CHF  0.96178  0.961753     0.96178        NaN       NaN  0.000027
+8 2023-07-19 20:14:00+00:00      20  0.96176  0.00016  EUR_CHF  0.96178  0.961758     0.96178   0.961753  0.000027  0.000022
+2023-07-19 21:15:02 Trade_decision:0
+2023-07-19 21:15:02 
+2023-07-19 21:15:12 
+2023-07-19 21:15:12 get_trade_decision() pair:EUR_USD max_rows:10
+2023-07-19 21:15:12 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:13:00+00:00      20  1.12016  0.00014  EUR_USD  1.120150  1.120202    1.120175        NaN       NaN -0.000053
+8 2023-07-19 20:14:00+00:00      17  1.12017  0.00016  EUR_USD  1.120165  1.120191    1.120150   1.120202 -0.000053 -0.000026
+2023-07-19 21:15:12 Trade_decision:0
+2023-07-19 21:15:12 
+2023-07-19 21:15:12 
+2023-07-19 21:15:12 get_trade_decision() pair:AUD_USD max_rows:10
+2023-07-19 21:15:13 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+8 2023-07-19 20:13:00+00:00      20  0.67734  0.00011  AUD_USD  0.677355  0.677391    0.677375   0.677399 -0.000024 -0.000036
+9 2023-07-19 20:14:00+00:00       2  0.67732  0.00011  AUD_USD  0.677330  0.677381    0.677355   0.677391 -0.000036 -0.000051
+2023-07-19 21:15:13 Trade_decision:0
+2023-07-19 21:15:13 
+2023-07-19 21:15:13 
+2023-07-19 21:15:13 get_trade_decision() pair:EUR_GBP max_rows:10
+2023-07-19 21:15:13 Processed_df
+                       time  volume    mid_c   SPREAD     PAIR      MA_2      MA_8  PREV_SHORT  PREV_LONG    D_PREV     D_NOW
+7 2023-07-19 20:13:00+00:00       8  0.86585  0.00016  EUR_GBP  0.865855  0.865834    0.865865        NaN       NaN  0.000021
+8 2023-07-19 20:14:00+00:00      16  0.86585  0.00016  EUR_GBP  0.865850  0.865837    0.865855   0.865834  0.000021  0.000013
+2023-07-19 21:15:13 Trade_decision:0
+2023-07-19 21:15:13 
